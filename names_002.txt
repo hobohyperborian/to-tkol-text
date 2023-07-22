@@ -1,0 +1,923 @@
+//GAME NAME:		Tactics Ogre: The Knight of Lodis (GBA)
+
+//BLOCK #002 NAME:		Character Dialog (POINTER)
+//Block Range: $7843F8 - $7BFC3A
+
+//xA<$8B>Well Dressed Young Man<$8C><$88>“ Well then, did your mother<$88> make a fuss over you?“ <$8D><$8A><END>
+ather it hadn't<$88> changed at all.“ <$8D><$8A><END>
+ounds like you think<$88> this'll be a vacation!<$8E><$8A> I'm not sure you realize what<$88> we're getting ourselves into.“ <$8D><$8A><END>
+<END>
+<$8A><END>
+arcastic?<$8E><$8A> This may be my first time<$88> commanding...but I am<$88> expecting a lot from you.“ <$8D><$8A><END>
+an its imposition of Lodisism.<$8D><$8A><END>
+ed Lodis' conditions.<$8D><$8A><END>
+ made that decision...<$8D><$8A><END>
+<$A8>Q<$F8>Q<$A4>R<$B4>R<$EA>RST<$62>TQU<$7A>U<$BE>U-V<$90>VSW]W<$68>W<$7C>W<$EE>WAXiX<$D2>X>Y<$66>Y<$78>Z<$BA>Z<$F6>ZgaQbqb<$F0>c<$9C>d<$CE>dKe)e<$84>e<$D8>eMf4f<$6E>f<$B4>f<$E8>fcg<$7A>gEh<$E2>hai<$8E>i>j<$EC>j<$9A>k<$F4>k<$5A>l<$A8>l<$BE>l<$F2>lkm<$58>m<$BC>m<END>
+ Flame<$88> will land in Scabellum.<$88> They plan on arresting you<$8E><$8A> for killing your commander<$88> and seizing control of<$88> strongholds on this island.“ <$8D><$8A><END>
+.“ <$8D><$8A> <END>
+y, but I must return<$88> to Felis.<$8E><$8A> My father is preparing to send<$88> his troops to this island.<$8E><$8A> Now that the spear has been<$88> presented to Galius and<$88> things have settled down,<$8E><$8A> there's no reason for him<$88> to do so. I don't know<$88> what he's thinking,<$8E><$8A> but I will try to convince<$88> him to reconsider. I leave<$88> things here in your hands.“ <$8D><$8A><END>
+roops.<$8E><$8A> We're going to report to him<$88> all that's happened and<$88> maybe he'll reconsider.<$8E><$8A> The spear has been presented<$88> to Galius, and we want to<$88> avoid any more trouble here.“ <$8D><$8A><END>
+u.<$88> <$87>I...Thank you...“ <$8D><$8A><END>
+Try reasoning<$88> with him.<$8E><$8A> Now that <$87>H's brought<$88> the Sacred Spear to Galius,<$88> there's no need to fight.<$8E><$8A> Be careful. I'll be<$88> awaiting good news.“ <$8D><$8A><END>
+ks to you, things are<$88> starting to settle down.<$8E><$8A> I'm going to protect<$88> Rananculus, and every<$88> living thing here.<$8E><$8A> <$80>A, what will you<$88> do from now on?“ <$8D><$8A><END>
+in no hurry.“ <$8D><$8A><END>
+<$8B>Priest in Training<$8C><$88>“ Don't be sorry.<$88> You saved us.<$8E><$8A> Please live your life<$88> as you see fit.“ <$8D><$8A><END>
+RALet's go, <$87>D.<$8D><$8A><END>
+<$8C><$88>I wanted to come with you...<$8D><$8A><END>
+he island was<$88>governed by the Lodis Empire.<$8D><$8A><END>
+I have no reason to return.<$88> I free you from my service.<$8E><$8A> If you quit the Hand of the<$88> Pope, you'll be pursued. You<$88> don't have to come with me.“ <$8D><$8A><END>
+cover my trail...“ <$8D><$8A><END>
+and has ended.“ <$8D><$8A><END>
+us...<$88> no, the whole island.<$8E><$8A> We'll build our future,<$88> together.“ <$8D><$8A><END>
+r<$88> future by your hand.<$8E><$8A> I don't think it's a good<$88> idea for you to have an old<$88> fella' like me around.<$8E><$8A> You should rely on the<$88> youths who will share that<$88> future with you.“ <$8D><$8A><END>
+<$8D><$8A><END>
+ppreciate your<$88> efforts.“ <$8D><$8A><END>
+will be trying times<$88> for you...and for Ovis.“ <$8D><$8A><END>
+.....“ <$8D><$8A><END>
+ don't know when or where<$88> a human ship might appear.<$8E><$8A> Please return to the<$88> sanctuary. We'll guard this<$88> area.“ <$8D><$8A><END>
+...“ <$8D><$8A><END>
+ I'll confide in them.“ <$8D><$8A><END>
+ blessing.<$8E><$8A> In honor of your noble deeds,<$88> I bestow on you the name<$88> Lans, and welcome you<$8E><$8A> into the service of the Pope.<$88> Henceforth, you shall be<$88> known as Lans Tartare.“ <$8D><$8A><END>
+amily nor<$88>the people of Rananculus,<$8E><$8A>since it had been his personal<$88>greed and ambition which had<$88>led to much of the difficulty.<$8E><$8A>Ovis, the island which was<$88>home to the Sacred Spear, was<$88>put under Galius's control.<$8E><$8A>Meanwhile, because the Duke of<$88>Felis had hidden his knowledge<$88>of the spear from Galius,<$8E><$8A>Felis's land was placed under the<$88>supervision of Lodis, and the<$88>Duke lost much of his standing.<$8D><$8A><END>
+nis.<$88>Little is said of the young<$88>knight who suppressed it.<$8D><$8A><END>
+st that<$88>anyone has seen of them...<$8D><$8A><END>
+ng in Solea!“ <$8D><$8A><END>
+t<$88> arousing suspicion.“ <$8D><$8A> <END>
+is<$88> island and has agreed to a<$88> meeting next month.<$8E><$8A> Also, the North-South Trade<$88> Alliance has reported an<$88> economic recovery.“ <$8D><$8A><END>
+p<$88>turning...The future is in<$88>their hands now.<$8D><$8A><END>
+A shooting star at dawn? The<$88> ring of destiny is fading.<$8E><$8A> The wings of night cover<$88> heaven, and the world will<$88> be enshrouded by fire...“ <$8D><$8A><END>
+<$88>described a white flash that<$88>wrapped the island in fire.<$8D><$8A><END>
+dis has sent ships to<$88>investigate the island,<$88>but not one has returned.<$8D><$8A><END>
+<$88>“ You're right. There has<$88> been enough fighting.<$8E><$8A> I leave the rest to you.<$88> As for <$87>F...“ <$8D><$8A><END>
+<$AC>I<$B6>I<$82>JgK<$A6>K<$C4>K<$EA>K<$C8>LiM<$C2>MMN_N<$5A>N<$64>N<$A0>N<$B6>N<$C6>NAO.O<$98>O<$D2>O<END>
+<$8A><END>
+ ship didn't sink.“ <$8D><$8A><END>
+from Lodis!<$8E><$8A> I'm sorry, but we<$88> can't let you land on<$88> this island. Die here!!!“ <$8D><$8A><END>
+among<$88> these glorious knights.“ <$8D><$8A><END>
+<$8B><$87>I<$8C><$88>“ I've failed! I shouldn't<$88> have let my guard down!“ <$8D><$8A><END>
+presence was requested<$88> by the people of Anser.<$8E><$8A> It must be forces from the<$88> North that attacked us.“ <$8D><$8A><END>
+ore than a conflict.<$8E><$8A> There's a sizeable forest<$88> that separates them.<$8E><$8A> Winter snows block both<$88> land and sea routes.<$8E><$8A> They've not associated<$88> with each other for<$88> hundreds of years.“ <$8D><$8A><END>
+he border...<$8E><$8A> What is your father,<$88> the Duke of Felis,<$88> saying about this?“ <$8D><$8A><END>
+, at the people's<$88> request, he finally decided<$88> to do something.“ <$8D><$8A><END>
+to go<$88> to the trouble of sending<$8E><$8A> the main forces, so he sent<$88> me to take care of things<$88> instead.“ <$8D><$8A><END>
+sending reinforcements by<$88> ship.<$8E><$8A> Since my father became the<$88> Duke, he's been very<$88> stingy.<$8E><$8A> I don't have much admiration<$88> for him.“ <$8D><$8A><END>
+.<$8E><$8A> My father wants me to<$88> inherit his position as<$88> Duke of Felis so that he<$8E><$8A> can hold the reins of power<$88> even in retirement.“ <$8D><$8A><END>
+.“ <$8D><$8A><END>
+<$8A><END>
+ictory.“ <$8D><$8A><END>
+ is a church in Solea.<$88> You were washed up on the<$88> beach outside.“ <$8D><$8A><END>
+elis.<$8E><$8A> ...My name's <$80>A,<$88> <$80>A Loeher.<$8E><$8A> We were headed for this<$88> island by ship, but a storm<$88> hit and we lost our way.<$8E><$8A> With our ship in shambles,<$88> we were attacked by<$88> pirates.“ <$8D><$8A><END>
+much of a swimmer.“ <$8D><$8A><END>
+hole body was<$88> shining in gold...“ <$8D><$8A><END>
+D, may I speak with<$88> him a little?“ <$8D><$8A><END>
+ars ago.<$8E><$8A> <$87>D told me about what<$88> happened to you. I wanted<$88> to speak to you.“ <$8D><$8A><END>
+e's a group of knights<$88> in unfamiliar armor. Are<$88> they comrades of yours?“ <$8D><$8A><END>
+e storm.<$8E><$8A> If this is true,<$88> then I must contact them.“ <$8D><$8A><END>
+<$88> where your comrades are.“ <$8D><$8A><END>
+hA<$8B><$80>A<$8C><$88>“ Father Hamen?“ <$8D><$8A><END>
+.“ <$8D><$8A><END>
+ yourself!“ <$8D><$8A><END>
+et in<$88> our way, we'll kill you.“ <$8D><$8A><END>
+se<$88> rogues.“ <$8D><$8A><END>
+ed,<$8E><$8A> we boarded a small craft<$88> and came to this port,<$8E><$8A> where we spoke to the mayor.<$88> The townspeople have been<$8E><$8A> willing to provide<$88> information, but not<$88> money or soldiers.“ <$8D><$8A><END>
+our protection<$88> for granted.<$8E><$8A> Since the island was<$88> subjugated by the<$88> Holy Lodis Empire,<$8E><$8A> Ovis has fallen under the<$88> jurisdiction of Felis.“ <$8D><$8A><END>
+ is to<$88> investigate and resolve<$88> the conflict here.<$8E><$8A> According to our information,<$88> the number of foreign<$88> soldiers and pirates<$8E><$8A> has increased over the<$88> last year or two.<$8E><$8A> We also heard that<$88> pirates were spotted<$88> here a few days ago,<$8E><$8A> so we hid and waited<$88> for their return.<$88> Then you showed up.“ <$8D><$8A><END>
+They've been acting<$88> in small groups.<$8E><$8A> Their leader's a knight,<$88> but the rest seem to be<$88> disorderly fellows,<$8E><$8A> maybe bandits.<$88> Oddly enough,<$88> they've made no demands,<$8E><$8A> they've just been<$88> excavating ruins and<$88> collecting old books.“ <$8D><$8A><END>
+ubt they're here<$88> merely as historians.<$8E><$8A> What do you estimate<$88> their numbers to be?“ <$8D><$8A><END>
+outheast of Naja.<$8E><$8A> Their leader is <$87>T<$88> Briffaut, a knight of<$88> Rananculus.“ <$8D><$8A><END>
+re, my plan is to<$88> attack them from the<$88> flanks.<$8E><$8A> That way, they'll have their<$88> backs to the ocean.<$8E><$8A> I'll go through the forest,<$88> and you'll cross Vespa Hill<$88> and attack from the west.“ <$8D><$8A><END>
+his.“ <$8D><$8A><END>
+<$8A><END>
+n element?“ <END>
+wind VS earth<$8E><$8A> or fire VS water, fight,<$88> they can each deal heavy<$88> damage to their opponent.<$8E><$8A> They can also receive<$88> heavy damage when<$88> counterattacked.“ <$8D><$8A><END>
+hat is the same<$88> element as the caster can<$88> be very powerful,<$8E><$8A> so be careful.“ <$8D><$8A><END>
+Lodis' territory,<$88> but it's also true that<$8E><$8A> Southerners want nothing<$88> to do with Rananculus.“ <$8D><$8A><END>
+ White Fang Troops.“ <$8D><$8A><END>
+r forgive you<$88> for all that I lost 15 years<$88> ago.<$8E><$8A> You burned down my town and<$88> killed my parents!!!<$8E><$8A> Thankfully, I've acquired<$88> the skills of a soldier.“ <$8D><$8A><END>
+o...“ <$8D><$8A><END>
+t the same<$88> mistakes again?<$8E><$8A> The teachings of Lodis are<$88> said to be sacred,<$8E><$8A> but in the end they are<$88> simply the rationalizations<$88> of the subjugator.“ <$8D><$8A><END>
+what we've begun.“ <$8D><$8A><END>
+o<$88> be in the White Fang<$8E><$8A> Troops. Their size doesn't<$88> compare to the troops of<$88> Lodis,<$8E><$8A> but they were the<$88> personal troops of the<$88> Lord of Rananculus.“ <$8D><$8A><END>
+<$8D><$8A><END>
+d demi-humans of<$8E><$8A> the frontier, and to<$88> cultivate the land.“ <$8D><$8A><END>
+traal,<$8E><$8A> daughter of the former<$88> Lord of Rananculus.“ <$8D><$8A><END>
+ Holy Lodis<$88> Empire<$8E><$8A> and was placed under<$88> the rule of Felis...“ <$8D><$8A><END>
+nculus, my father<$88> signed a peace treaty with<$88> their leader,<$8E><$8A> and we were able to avoid a<$88> conflict. My father died<$88> late that year.<$8E><$8A> My mother told me it was a<$88> heart-attack, and I believed<$88> her at first.<$8E><$8A> However, a few years later,<$88> I heard a rumor that he was<$88> killed by my uncle.“ <$8D><$8A><END>
+ the treaty.<$8E><$8A> He excelled in the use of<$88> both the pen and the<$88> sword.<$8E><$8A> My father, however, was<$88> quiet and always ill.<$8E><$8A> But my father was lord and<$88> heir.<$8E><$8A> My uncle may have been<$88> jealous of my father, who<$88> stood to inherit everything.“ <$8D><$8A><END>
+want to know the<$88> truth of my father's death<$8E><$8A> and to confront my uncle.<$88> Please, may I accompany<$88> you?<$8E><$8A> My uncle must be behind<$88> all this, pursuing some<$88> ulterior motive.“ <$8D><$8A><END>
+ go together.<$8E><$8A> It's encouraging to have<$88> you fight alongside us.“ <$8D><$8A> <END>
+ve been in<$88> danger.<$8E><$8A> So with the help of my sword<$88> instructor,<$8E><$8A> who had taken care of me<$88> since I was small, I left<$88> the troops and hid here.“ <$8D><$8A><END>
+'t guarantee that we'd<$88> stay together, anyway.<$8E><$8A> Please seek assistance<$88> elsewhere.“ <$8D><$8A><END>
+our mission and avenging<$88> your father's death are<$88> two different things.<$8E><$8A> I can't guarantee that we'd<$88> stay together, anyway.<$8E><$8A> Please seek assistance<$88> elsewhere.“ <$8D><$8A><END>
+n your<$88> troops.<$8E><$8A> But, don't assume everyone<$88> will be persuaded.<$8E><$8A> Foes with high HP usually<$88> won't listen.<$8E><$8A> Furthermore, some of your<$88> characters may be more<$88> persuasive than others.“ <$8D><$8A><END>
+<$BA>K>L<$86>LCMMM/M<$CE>M<$E4>M2N<$6A>NKOiO<$9A>O<$C2>O<$D4>O<$5A>P<$64>P<$E8>PMQ<$6C>Q<$76>Q<$80>Q<$D4>Q<$6E>R<$92>R<$E0>R<$62>S<$C6>S<$EC>SkT.T<$64>T<$B4>T<$E2>TCU-U<$76>U<END>
+attack<$88> them,<$8E><$8A> but some survived<$88> and made it ashore.<$8E><$8A> <$87>m, use the troops<$88> stationed here to protect<$88> this fortress.“ <$8D><$8A><END>
+ome soon.<$8E><$8A> According to my sources, the<$88> leader of Lodis' troops is<$88> only 15 years old.<$8E><$8A> They're making fools of us!“ <$8D><$8A><END>
+..“ <$8D><$8A><END>
+y guts?!“ <$8D><$8A><END>
+t that ends here!“ <$8D><$8A><END>
+ just go in.)<$8D><$8A><END>
+ne...“ <$8D><$8A><END>
+ hightailed it out of<$88> here?<$8E><$8A> It's your fault for<$88> letting your guard down<$88> after defeating <$87>m.<$8E><$8A> I feel sorry for him,<$88> but at least he bought me<$88> some time.<$8E><$8A> Everything's going as<$88> planned.“ <$8D><$8A><END>
+o chat.“ <$8D><$8A><END>
+is takes<$88> action, there's always<$88> something they're after.“ <$8D><$8A><END>
+?“ <$8D><$8A><END>
+ssion!“ <$8D><$8A><END>
+I told you...<$88> ...I don't know...“ <$8D><$8A><END>
+ a potion.<$8E><$8A> This'll make him talk,<$88> but he won't feel so well<$88> when he wakes up.“ <$8D><$8A><END>
+eans you're alone.“ <$8D><$8A><END>
+don't care if you die<$88> here or not.“ <$8D><$8A><END>
+.<$8E><$8A> Don't forget, we have a<$88> deal now!“ <$8D><$8A><END>
+o attack<$88> from the south?“ <$8D><$8A><END>
+A<$8C><$88>“ And...what should I do?“ <$8D><$8A><END>
+ow.“ <$8D><$8A><END>
+RA<$8B>Ostorea Castle<$8C><$8D><$8A><END>
+eaking of which, what's<$88> the Duke of Felis's son<$88> been up to?“ <$8D><$8A><END>
+acred there<$88> by soldiers of Lodis?“ <$8D><$8A><END>
+scaped to the forest,<$8E><$8A> but the soldiers surrounded<$88> it and set it ablaze.<$8E><$8A> The villagers were burnt<$88> to death.“ <$8D><$8A><END>
+been<$88> possessed or killed by<$88> evil spirits!<$8E><$8A> I must find 'it' before they<$88> learn of it...Otherwise,<$88> everything will be in vain.“ <$8D><$8A><END>
+...<$88> ...has escaped.“ <$8D><$8A><END>
+ling better.“ <$8D><$8A><END>
+<$8B><$80>A<$8C><$88>“ Would you mind explaining<$88> our current situation?“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+s to the north.<$88> Right?“ <$8D><$8A><END>
+<$8A><END>
+ Why would someone from the<$88> Church be...?<$8E><$8A> And that mark on your<$88> hand...<$8E><$8A> I can't believe the rumors<$88> were true...“ <$8D><$8A><END>
+ and that they are acting<$88> in secrecy to restore the<$88> authority of the Pope.“ <$8D><$8A><END>
+ Lodis,<$88> they collect manuscripts<$8E><$8A> detailing ancient ruins,<$88> rare weapons, spells, and<$88> mythology.<$8E><$8A> It is said that when people<$88> arrived at Ovis 400 years<$88> ago,<$8E><$8A> the mermaids living here<$88> fought against them with<$88> a spear of light.“ <$8D><$8A><END>
+One document says,<$8E><$8A> 'Beams of light from the<$88> Sacred Spear, wielded by<$88> a beautiful mermaid,<$8E><$8A> sent hundreds of soldiers<$88> to their graves...'<$8E><$8A> We've been on this island<$88> since last summer<$8E><$8A> investigating whether a spear<$88> with that kind of power<$88> really exists.<$8E><$8A> Unfortunately, others have<$88> also learned of the spear and<$88> are determined to obtain it.“ <$8D><$8A><END>
+n the<$88> teachings of Lodisism,<$8E><$8A> then we'd best not let him<$88> get it before us.<$8E><$8A> That's why we must speak to<$88> the mermaids and bring the<$88> spear to Galius at any cost.“ <$8D><$8A><END>
+d soldiers have<$88> arrived at Urodela Cape.“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+cals will help us as a<$88> token of appreciation.“ <$8D><$8A><END>
+It's better that you<$88> don't know.“ <$8D><$8A><END>
+ders.<$8E><$8A> I'm grateful that you saved<$88> my life, and I gave you<$88> my word, but...“ <$8D><$8A><END>
+<$B8>S<$CA>T<$E8>TsU<$8A>V<$B2>V♥W<$8C>W<$D8>W<$F6>WwX… X<$F2>X6Y<$A4>Z<$EE>Z<$90>a<$BA>a<$6A>c<$8E>c<$C8>c<$C4>dAe<$A8>f<$B2>f<$BC>fIg6gmhwh<$62>h<$80>hKi<$9E>i<$A8>i<$B2>i<$58>j<$62>j<$C8>jMk<$5A>kWl<$6C>l<$84>m<$D2>mKnsn<$98>n<$D4>n8o<$F4>o:p<$A8>p<$A8>q<$B8>q<$BE>r<$D8>r<$66>s<$9E>s]t-u<$B0>u<$FC>ugv'v<$80>v-w w<$60>w<$8C>w<$F8>wax<$82>x<$BC>x<$8A>y<$C2>y<$CC>y<$F2>y<$FC>yuzU0<$64>0<$62>1<$B0>1<$BA>1<END>
+<$8D><$8A><END>
+<$8E><$8A> treasure of the Batraal<$88> Family!“ <$8D><$8A><END>
+t you snatch<$88> it from us...<$8E><$8A> You've always resorted to<$88> using force.<$8E><$8A> You're responsible for<$88> the death of my family!<$8E><$8A> Since then, I've lived<$88> with nothing but vengeance<$88> to sustain me.“ <$8D><$8A><END>
+<$88>“ I guess I got careless...“ <$8D><$8A><END>
+s were wounded<$88> by undead creatures in the<$8E><$8A> Forest of Gryllus. Because<$88> of the confusion, we had<$88> no choice but to retreat.“ <$8D><$8A><END>
+ they looking for, and what<$88> is your true mission?“ <$8D><$8A><END>
+t.<$8E><$8A> Please forget about me.<$88> I have no intentions of<$88> returning.“ <$8D><$8A><END>
+hen I become the next Duke<$88> of Felis, I want you to be<$88> my right-hand man.<$8E><$8A> I will govern and you will<$88> head up the country's<$88> defenses.<$8E><$8A> If you want, I will make you<$88> the head of the knights.<$8E><$8A> You're vital to the future<$88> of Lodis.“ <$8D><$8A><END>
+te your offer,<$88> but...<$8E><$8A> my destiny lies elsewhere.<$8E><$8A> I may not yet know exactly<$88> what my future holds, but<$88> I intend to find out.“ <$8D><$8A><END>
+n thinking about<$88> this for some time, but...<$8E><$8A> Did you plan on leaving<$88> all along?“ <$8D><$8A><END>
+to<$88> you?<$8E><$8A> Do you even know who she<$88> is?“ <$8D><$8A><END>
+.“ <$8D><$8A><END>
+'s will. What more can<$88> I do?<$8E><$8A> The Hand of the Pope obeys<$88> the Pope and Filarhh without<$88> question.<$8E><$8A> I've dedicated my life to<$88> them.“ <$8D><$8A><END>
+! And what about you?<$8E><$8A> If your mission was to halt<$88> the White Fang Troops, then<$88> why are you here?“ <$8D><$8A><END>
+sorry, but there's no<$88> point in talking to you<$8E><$8A> now. There's no getting<$88> through that thick skull of<$88> yours.“ <$8D><$8A><END>
+d?<$8E><$8A> I am here of my own will.<$88> Please understand,<$88> <$87>F...“ <$8D><$8A><END>
+coincidence.<$8E><$8A> This is your last chance to<$88> rejoin us.“ <$8D><$8A><END>
+If you want to go with her,<$88> go ahead.<$8E><$8A> But if you get in my way,<$88> don't expect any mercy.“ <$8D><$8A><END>
+nctuary.<$8E><$8A> I heard the leader's lived<$88> for over 400 years.<$8E><$8A> She must know something<$88> about the Sacred Spear.“ <$8D><$8A><END>
+said?<$8E><$8A> Then start taking<$88> responsibility for<$88> your actions.<$8E><$8A> That's why you're always<$88> treated like a child.<$8E><$8A> Listen, you can't have<$88> freedom without bearing<$88> the responsibility.<$8E><$8A> People have the right to<$88> choose their actions<$88> freely,<$8E><$8A> but they are responsible<$88> for the results of those<$88> actions.“ <$8D><$8A><END>
+I don't want to...no, I<$88> can't...fight with <$87>F.“ <$8D><$8A><END>
+<$88>“ Of course not. I'm not a<$88> mind reader.<$8E><$8A> But I do know you made it<$88> clear that you won't be<$88> going back.<$8E><$8A> You have no place to return<$88> to anymore.“ <$8D><$8A><END>
+st,<$88> but we can start anew.<$8E><$8A> Time waits for no man.<$88> The past has led you to the<$88> present,<$8E><$8A> but you build your own future<$88> with choices today.<$8E><$8A> Throughout your life, you<$88> will face many difficult<$88> decisions.<$8E><$8A> There's no right or wrong...<$88> just paths that lead to<$88> different futures.<$8E><$8A> That's all the advice<$88> I can give you.“ <$8D><$8A><END>
+ Now, I've dedicated my life<$88> to serving the Church.“ <$8D><$8A><END>
+ of those choices.<$8E><$8A> Listen...Your birth, your<$88> status...<$8E><$8A> these things are part of<$88> your environment, they're<$88> what you've been given.<$8E><$8A> People strive for the<$88> things they want<$8E><$8A> and give up on the things<$88> they don't want.<$8E><$8A> Choosing not to decide is<$88> still a choice.“ <$8D><$8A><END>
+,<$8E><$8A> you'd still have to navigate<$88> around the sunken rocks in<$88> Rana.<$8E><$8A> I'm sorry, but we can't help<$88> you.“ <$8D><$8A><END>
+t be foolish.<$88> Don't take the sea...or the<$88> mermaids...lightly.<$8E><$8A> They're monsters. They<$88> tempt men with their beauty<$88> and their singing,<$8E><$8A> and then drag them into the<$88> sea...<$8E><$8A> We had such an incident last<$88> summer. We have rules for<$88> our safety,<$8E><$8A> but you outsiders think you<$88> can solve everything with<$88> your money and your logic.“ <$8D><$8A><END>
+ to meet the<$88> mermaids that badly,<$8E><$8A> then capture one. She'll<$88> call for help and others<$88> will come.<$8E><$8A> Then follow them to the<$88> sanctuary.<$8E><$8A> I must be on my way. Please<$88> don't hold a grudge against<$88> me.“ <$8D><$8A><END>
+rmaid.“ <$8D><$8A><END>
+ do with your treasure<$88> hunting.<$8E><$8A> How can we use them like<$88> that?“ <$8D><$8A><END>
+RAdummy<$8D><$8A><END>
+<$8A><END>
+mation you seek.“ <$8D><$8A><END>
+n and return with<$88> details on the spear.“ <$8D><$8A><END>
+ may not subside<$88> for some time...<$80>A,<$88> what will you do now?“ <$8D><$8A><END>
+ one<$88> advantage.<$8E><$8A> No one would ever suspect<$88> that we'd go through there<$88> in this rain.<$8E><$8A> Besides, no one will be<$88> able to trace our<$88> footsteps, either.“ <$8D><$8A><END>
+u decide<$88> to come with me?<$8E><$8A> Don't you want to avenge<$88> your father's death?“ <$8D><$8A><END>
+want to know the truth<$88> of my father's death, but<$88> I want to help you, too.“ <$8D><$8A><END>
+nanculus, but after<$88> meeting you at Vespa,<$8E><$8A> I decided to fight alongside<$88> you and your comrades.“ <$8D><$8A><END>
+ternative.“ <$8D><$8A><END>
+A<$8C><$88>“ I see.<$8E><$8A> So the Temple of Sufrir is<$88> located near Yema Bay.<$8E><$8A> I've heard that after the<$88> temple sank into the sea,<$8E><$8A> an underwater cave<$88> connecting Anser and Tinea<$88> was discovered.<$8E><$8A> I'm considering going to<$88> Arena Island by that route.“ <$8D><$8A><END>
+ard there are many<$88> beasts that dwell inside.<$8E><$8A> Don't you think it's too<$88> dangerous?“ <$8D><$8A><END>
+ still meditating<$88> on <$87>F's words...?“ <$8D><$8A><END>
+dummy<$8D><$8A><END>
+ase<$8E><$8A> anytime soon. What will<$88> you do?“ <$8D><$8A><END>
+<$8A> I hope you won't end up<$88> being their dinner.“ <$8D><$8A><END>
+e<$88> that was at the tip of the<$8E><$8A> Numida Peninsula.  It sank<$88> into the ocean because of<$88> geologic instability.<$8E><$8A> You know that Yema Bay used<$88> to be a lake?! You aren't<$88> considering...?!“ <$8D><$8A><END>
+Sufrir.“ <$8D><$8A><END>
+fely.“ <$8D><$8A><END>
+ Everybody, watch your step!“ <$8D><$8A> <END>
+hA<$8B><$87>H<$8C><$88>“ I am only here to help...“ <$8D><$8A><END>
+et<$88> you join the ranks.<$8E><$8A> If I accept your help, then<$88> my promise to her would be<$88> meaningless.“ <$8D><$8A><END>
+<$88>“ It's better that you stay<$88> at Mistress Alinda's side.“ <$8D><$8A><END>
+ far from the<$88> truth.<$8E><$8A> The ground is pretty muddy,<$88> too. We'd better watch our<$88> step.)<$8D><$8A><END>
+cond thoughts?“ <$8D><$8A><END>
+ght much about<$88> what I wanted to do.<$8E><$8A> I began my military training<$88> at 12 and became a knight at<$88> 14.<$8E><$8A> It was the usual path for<$88> the son of an aristocrat<$88> like me...<$8E><$8A> But look at me now...<$88> I am no longer a knight.<$8E><$8A> I don't understand what<$88> <$87>F is thinking,<$8E><$8A> and I can't follow <$87>E's<$88> orders...This isn't how it<$88> should be...“ <$8D><$8A><END>
+lained<$88> things to her, you could<$88> have found a solution.“ <$8D><$8A><END>
+t leave undone.<$8E><$8A> Thank you, <$87>D.<$88> I must go now.“ <$8D><$8A><END>
+in you...)<$8D><$8A><END>
+“ I finally caught up with<$88> you.“ <$8D><$8A><END>
+get out of this place<$88> as soon as possible!“ <$8D><$8A><END>
+stigate<$88> the goal of the northern<$8E><$8A> troops, but we haven't been<$88> able to uncover much<$88> information.<$8E><$8A> When we heard that you left<$88> Urodela, Master Lasanti<$88> ordered me to join you.“ <$8D><$8A><END>
+ck. You're<$88> here to persuade me, aren't<$88> you?“ <$8D><$8A><END>
+ Commander<$88> Lasanti was to help you,<$8E><$8A> even though you made<$88> yourself his enemy.<$8E><$8A> So, will you allow me to<$88> join you?“ <$8D><$8A><END>
+t it.“ <$8D><$8A><END>
+it's best we be on our<$88> way.“ <$8D><$8A><END>
+..“ <$8D><$8A><END>
+n you<$88> can imagine.“ <$8D><$8A><END>
+ Sea is just<$88> beyond the horizon.“ <$8D><$8A><END>
+We<$88> can get there by foot.“ <$8D><$8A><END>
+th the flag of<$88> Felis.<$8E><$8A> What's this all about?<$88> Too soon to be <$87>F.<$8E><$8A> I'd better take a closer<$88> look.)<$8D><$8A><END>
+ds<$88> tempt men and drag them<$88> into the ocean to eat?“ <$8D><$8A><END>
+ decide for<$88> ourselves?“ <$8D><$8A><END>
+ust leave her.<$8E><$8A> <$87>G, let's rescue her and<$88> steal the boat so we can go<$88> to Rana.“ <$8D><$8A><END>
+y<$8D><$8A><END>
+ve.“ <$8D><$8A><END>
+soldiers.<$8E><$8A> We can't just leave her.<$8E><$8A> <$87>H, let's rescue her and<$88> steal the boat so we can go<$88> to Rana.“ <$8D><$8A><END>
+the mermaid!“ <$8D><$8A><END>
+ place?“ <$8D><$8A><END>
+f harming any of you.“ <$8D><$8A><END>
+p me...sister...“ <$8D><$8A><END>
+.I<$76>I>J<$8E>J<$B0>J<$62>K<$7A>K<$B6>K<$DC>KSL… L0M<$76>M<$EC>M<$F6>M'N<$84>O<$8E>O-PuQ<$58>Q<$A0>Q<$D6>QeS<$78>S<$C0>S<$C6>TkU<$C6>U4V<$6E>W<$82>X<$B6>X<$D2>X_Y<$98>Y'Z/a<$8A>b<$B0>bqc<$6C>c<$FA>cWd<$9E>d<$A8>dWe!e<$7E>e8f<$88>f<$A4>fSg<$8A>g<$BE>g<$F4>gWh<$5A>h<END>
+ritory?<$8E><$8A> I suggest you leave<$88> immediately if you want<$88> to live.“ <$8D><$8A><END>
+ welfare of<$88> others is insignificant in<$88> the pursuit of your<$8E><$8A> selfish ambitions.<$88> You are our enemies, and you<$88> have invaded our ocean.<$8E><$8A> I am the strongest of my<$88> kind. Do you dare face me?!“ <$8D><$8A><END>
+ I'll never<$88> lose to you!“ <$8D><$8A><END>
+ I am the strongest of my<$88> kind. Do you dare face me?!“ <$8D><$8A><END>
+?“ <$8D><$8A><END>
+nd you<$88> have invaded our ocean.<$8E><$8A> I am the strongest of my<$88> kind. Do you dare face me?!“ <$8D><$8A> <END>
+al the<$88> location of our sanctuary.<$8E><$8A> I'll endure any disgrace.“ <$8D><$8A><END>
+olve things peacefully.“ <$8D><$8A><END>
+pathy is nothing but<$88> a liability.“ <$8D><$8A><END>
+eceive<$88> treatment for your wounds<$88> and then join us later.“ <$8D><$8A><END>
+ity and spare me,<$88> after killing <$87>v? Why?“ <$8D><$8A><END>
+n us later.“ <$8D><$8A><END>
+them find<$8E><$8A> the Sacred Spear.“ <$8D><$8A><END>
+orgetting permits hope to<$88> return and strength to be<$88> rebuilt.<$8E><$8A> In that sense, I envy you.“ <$8D><$8A><END>
+ of time is<$88> different for our kind.“ <$8D><$8A><END>
+know.“ <$8D><$8A><END>
+hen<$88>people arrived. They burned<$8E><$8A>forests and built villages.<$88>Conflicts erupted when they<$8E><$8A>disturbed our quiet ocean.<$88>The quarreling never ceased,<$8E><$8A>and finally a battle began<$88>for control of the island.<$8E><$8A>I took up arms alongside<$88>the other mermaids.<$8D><$8A><END>
+maid Soldier<$8C><$88>“ Commander, the humans<$88> have already entered<$8E><$8A> the southern sea...“ <$8D><$8A><END>
+ blood-thirsty<$88> goblins.<$8E><$8A> They think everything in<$88> this world is theirs for<$88> the taking.<$8E><$8A> Why?! Why does God allow<$88> such creatures to exist<$88> on this earth?“ <$8D><$8A><END>
+xA<$8B>Mermaid Leader<$8C><$88>“ <$87>9, that kind of<$88> thinking will get us<$8E><$8A> nowhere. What will remain<$88> when the fighting is over?<$8E><$8A> Instead, we must find a way<$88> to survive.“ <$8D><$8A><END>
+of humiliation?“ <$8D><$8A><END>
+rth?<$8E><$8A> Will you turn your back on<$88> us and let us fade from<$88> existence?“ <$8D><$8A><END>
+nd lightning, and<$88>could pierce metal armor.<$8E><$8A>The war started anew, and<$88>ten years passed...<$8D><$8A><END>
+ from<$88> here, then? And why?“ <$8D><$8A><END>
+r is the key to<$88> our victory!“ <$8D><$8A><END>
+le the Sacred<$88>Spear for her loved one.<$8D><$8A><END>
+hese natural barriers have<$88> protected this small sea.<$8E><$8A> You see, we don't have the<$88> spear anymore.“ <$8D><$8A><END>
+t.“ <$8D><$8A><END>
+rmaid that<$88> disappeared...<$8E><$8A> Her name is <$87>8. She was<$88> a beautiful mermaid with<$88> golden scales.<$8E><$8A> ...She is my sister.“ <$8D><$8A><END>
+l you do this<$88> for me?“ <$8D><$8A><END>
+ more of a concern.“ <$8D><$8A><END>
+ll return to Urodela<$88> first.<$8E><$8A> There's someone waiting<$88> for me...If she believes<$88> in me, that is.“ <$8D><$8A><END>
+l<$8C><$88>“ Wait. Our leader has agreed<$88> to meet with you.“ <$8D><$8A><END>
+ again.“ <$8D><$8A><END>
+protect...<$8E><$8A> ...even if it cost you<$88> everything?“ <$8D><$8A><END>
+rmaid's<$88> life would mean much to a<$88> human.“ <$8D><$8A><END>
+e it, but...“ <END>
+right. I don't want you<$88> to feel obligated.<$8E><$8A> But, remember, I'll hunt you<$88> down if I find out you're<$88> not true to your word.<$8E><$8A> ...Good luck.“ <$8D><$8A><END>
+you<$88> to feel obligated.<$8E><$8A> But, remember, I'll hunt you<$88> down if I find out you're<$88> not true to your word.<$8E><$8A> ...Good luck.“ <$8D><$8A><END>
+king.<$8E><$8A> Tell me...Do humans and<$88> mermaids differ in more<$88> than just appearance?<$8E><$8A> Will we never understand<$88> each other?<$8E><$8A> If that's the case, will we<$88> just continue stealing from<$88> one another?“ <$8D><$8A><END>
+g good comes<$88> from stealing.“ <$8D><$8A><END>
+don't understand what she<$88> is thinking.<$8E><$8A> Tell me...Do humans and<$88> mermaids differ in more than<$88> just appearance?<$8E><$8A> Will we never understand<$88> each other?<$8E><$8A> If that's the case, will we<$88> just continue stealing from<$88> one another?“ <$8D><$8A><END>
+It's wrong of me to blame<$88> only you.<$8E><$8A> There's bound to be<$88> misunderstandings between<$88> humans and mermaids<$8E><$8A> because of what's happened<$88> in the past.“ <$8D><$8A><END>
+o long.<$8E><$8A> Any luck finding new<$88> information on <$87>8?“ <$8D><$8A><END>
+love story of a<$88> human and a mermaid,<$8E><$8A> and the weapon of God...<$8E><$8A> The White Fang Troops have<$88> yet to act.<$8E><$8A> Neither has the Order of the<$88> Sacred Flame, which was<$88> dispatched from Scabellum.“ <$8D><$8A><END>
+a<$8E><$8A> that night were chasing<$88> after members of the<$88> White Fang Troops.“ <$8D><$8A><END>
+ught we were sent here<$88> to investigate the White<$88> Fang Troops.<$8E><$8A> But, I wonder how much<$88> <$87>F knew...“ <$8D><$8A><END>
+ee to go and do as<$88> you please,<$8E><$8A> whether that be rejoining<$88> your comrades or returning<$88> home.“ <$8D><$8A><END>
+ected a lot of<$88> me.<$8E><$8A> He wanted me as both a<$88> subordinate and a friend...<$8E><$8A> He wanted someone that he<$88> could rely on.“ <$8D><$8A><END>
+about what others think,<$8E><$8A> and I put their wishes<$88> before my own.<$8E><$8A> Once I realized this,<$88> I couldn't stomach it<$88> anymore.“ <$8D><$8A><END>
+ while. I needed<$88> time alone.“ <$8D><$8A><END>
+tion in life,<$8E><$8A> find a way to work towards<$88> that goal.“ <$8D><$8A><END>
+<END>
+l, and I held up<$88> my end of the bargain.<$8E><$8A> But, things are different<$88> now.<$8E><$8A> I sincerely want to help<$88> you. That is, of course,<$88> if you'll let me...“ <$8D><$8A><END>
+.<$8E><$8A> I prefer to operate alone.<$88> Contact me if the need<$88> arises.“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+was<$88>shining in gold...<$8D><$8A><END>
+s of<$88> Solea...“ <$8D><$8A><END>
+n.<$88> But, why are you here?“ <$8D><$8A><END>
+t will you<$88> do now?<$8E><$8A> How long will your troops...<$88> will you...stay on this<$88> island?“ <$8D><$8A><END>
+your life?“ <$8D><$8A><END>
+ad seen a golden mermaid.“ <$8D><$8A><END>
+scales.<$88> Do you remember anything?“ <$8D><$8A><END>
+...!?“ <$8D><$8A><END>
+ested.<$8E><$8A> I guess I was worried for<$88> nothing. She's a very<$88> reasonable person.<$8E><$8A> Nothing seems to have<$88> changed since I was here<$88> last...<$8E><$8A> I'm sorry for what happened<$88> then.<$8E><$8A> I was confused and didn't<$88> understand why I felt as<$88> I did.“ <$8D><$8A><END>
+lright.“ <$8D><$8A><END>
+ with us.“ <$8D><$8A><END>
+t her share what<$88> she knows with anyone.<$8E><$8A> Do whatever's necessary to<$88> keep her quiet.“ <$8D><$8A><END>
+<$88> her?“ <$8D><$8A><END>
+<$88> enemy...?“ <$8D><$8A><END>
+aid...<$8E><$8A> I know where she is.“ <$8D><$8A><END>
+h near<$8E><$8A> our village, watching the<$88> ocean. That's where I met<$88> her. We talked and swam...<$8E><$8A> It was so much fun.<$8E><$8A> But one day, she came and<$88> told me she wouldn't be able<$88> to see me anymore.<$8E><$8A> The volcanic activity on the<$88> seafloor was worsening.“ <$8D><$8A><END>
+<$88>“ Do you remember where she<$88> said she was going?“ <$8D><$8A><END>
+d I won't tell anyone<$88> where she is.<$8E><$8A> Don't worry, <$87>D.<$88> I'll come back.<$88> I promise...“ <$8D><$8A><END>
+t want to put you<$88> in danger.<$8E><$8A> That's why...“ <$8D><$8A><END>
+et's go together.<$88> I'll protect you.“ <$8D><$8A><END>
+ promise I'll help out<$88> any way I can.“ <$8D><$8A><END>
+here no<$88> other way?“ <$8D><$8A><END>
+omewhere in<$88> this area...<$8E><$8A> East of Aquila, where the<$88> mid-summer sun warms the<$88> ocean...“ <$8D><$8A><END>
+e's been very worried<$88> since you disappeared.“ <$8D><$8A><END>
+<$8B><$80>A<$8C><$88>“ ...<$87>D, do you want to<$88> go back?“ <$8D><$8A><END>
+n<$8C><$88>“ Listen, <$87>D.<$8E><$8A> I hated the idea from the<$88> beginning, but you were so<$88> kind that you insisted<$8E><$8A> we save that man who had<$88> washed up on the beach.“ <$8D><$8A><END>
+ut...<$88> I want to be with him.“ <$8D><$8A><END>
+r Hamen<$8C><$88>“ Why do you come between<$88> us?<$8E><$8A> I do this because I love<$88> her. I don't want to have<$88> to chastise her.<$8E><$8A> This is what's best for her.<$88> Now, give my <$87>D back<$88> to me.“ <$8D><$8A><END>
+ll let you<$88> have her!<$8E><$8A> She came here of her own<$88> free will, and I'm glad<$88> she's by my side...<$8E><$8A> You can't change that.“ <$8D><$8A><END>
+mmander Lasanti...Please.<$88> She's my daughter.<$8E><$8A> Please take her back from<$88> that reckless youth.“ <$8D><$8A><END>
+<$8B><$87>F<$8C><$88>“ I was looking for a girl<$88> who knows about mermaids,<$8E><$8A> and here I find you again.<$88> Listen. I don't know how<$88> much information you have,<$8E><$8A> but if the stories I've<$88> heard are true,<$8E><$8A> then the Sacred Spear,<$88> Longicolnis, is no ordinary<$88> spear.“ <$8D><$8A><END>
+y<$8D><$8A><END>
+rced even the<$88> Sacred Demon.<$8E><$8A> Mermaids are unworthy of<$88> holding such power.“ <$8D><$8A><END>
+hat invaded this island?“ <$8D><$8A><END>
+d<$88> who stole the Sacred Spear.“ <$8D><$8A><END>
+t much of a swimmer.“ <$8D><$8A><END>
+<$87>D, you are not my<$88> daughter. You were born a<$88> human child.“ <$8D><$8A><END>
+ his life, so I<$88> took the Sacred Spear in<$88> hopes of ending the war...<$8E><$8A> I sacrificed many mermaid<$88> lives by doing so.“ <$8D><$8A><END>
+xA<$8B><$87>8<$8C><$88>“ However, it wasn't long<$88> before he passed away...<$8E><$8A> The lifespan of humans is<$88> much shorter than ours.<$8E><$8A> After his death, I left<$88> that place, taking the<$88> Sacred Spear with me.<$8E><$8A> It was too difficult for me<$88> to remain in a place that<$88> reminded me of him.“ <$8D><$8A><END>
+e<$88> alone.“ <$8D><$8A><END>
+<$8E><$8A> I found a newborn baby<$88> wrapped in a blanket.“ <$8D><$8A><END>
+<$8E><$8A> so I asked a couple in a<$88> northern village to look<$88> after her.“ <$8D><$8A><END>
+didn't think you'd remember<$88> me since you were so small.<$8E><$8A> I used to hold you and watch<$88> the dawn from Aquila<$88> Beach.<$8E><$8A> <$87>D, I'm sorry you had<$88> such a hard life.“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+seek the power that the<$88> spear possesses.<$8E><$8A> Many people are fighting to<$88> gain control of it.<$8E><$8A> For that reason, the lives<$88> of this island's inhabitants<$88> have been threatened.<$8E><$8A> I can't let anyone have the<$88> spear.<$8E><$8A> I want to end the fighting<$88> and bring peace to Ovis<$88> as quickly as possible,<$8E><$8A> and that's why I need the<$88> spear.“ <$8D><$8A><END>
+..I have a message...<$88> from the leader of the<$88> mermaids.<$8E><$8A> She said to tell you that<$88> they are no longer angry...<$88> and await your return.“ <$8D><$8A><END>
+in...<$8E><$8A> Many people are fighting to<$88> gain control of the spear.<$8E><$8A> For that reason, the lives<$88> of this island's inhabitants<$88> have been threatened.<$8E><$8A> I can't let anyone have it.<$8E><$8A> I promised to bring the<$88> spear back to Galius before<$88> its power can be abused.“ <$8D><$8A><END>
+ng<$88>as a representative of<$88>Felis, announced in the<$88>month of Oceano that the<$88>White Fang Troops of<$88>Rananculus had<$88>withdrawn from Anser.<END>
+ed<$88>to have been resolved.<END>
+t<$88>Formido, the former<$88>stronghold of the troops<$88>of Rananculus,<$88>researching the history<$88>of the spear.<END>
+It would come as no<$88>surprise if the heirs of<$88>the Batraals knew of<$88>the Sacred Spear.<END>
+<$7A>A<$AC>A<$AC>B<$B6>B<$C0>BeC<$C0>C<$DE>D<$74>E<$AC>F4G<$F4>GwI<$5C>I!J<$60>J<$EE>J<$7A>KYLAMKM<$9C>M<$58>N<$C8>N'P<$CA>PEQ<$D6>Q<$F8>Q<$9E>RqS<$64>S<$58>T<$62>T2U<$98>U<$D0>U<$DA>U<$C4>VwW/WCX<$58>X<$98>XCY<$60>Y<$82>Y<$B4>Y<$5E>ZIa<$C4>a<$FC>a'b♥b<$FE>b<$AE>c_d<$70>d4f<$76>f<END>
+Naja,<$8E><$8A> but we don't know his purpose<$88> or current location.<$8E><$8A> As for the rest of his<$88> troops,<$8E><$8A> it seems that they'll be<$88> returning to Felis as soon<$88> as the ship comes.“ <$8D><$8A><END>
+so<$88> looking for the spear.“ <$8D><$8A><END>
+ spear, all I can do for<$88> now is make assumptions.<$8E><$8A> If the Duke of Felis obtains<$88> the spear and doesn't hand<$88> it over to the Church,<$8E><$8A> it's possible that the Church<$88> elders will send troops to<$88> arrest him for treason.“ <$8D><$8A><END>
+art.<$8E><$8A> We can't afford to have<$88> internal conflict.<$8E><$8A> That will leave Ovis<$88> defenseless to an outside<$88> invasion.“ <$8D><$8A><END>
+'s been doing his<$88> research...but if we can get<$88> the spear first...<$8E><$8A> Then it's over for him.<$8E><$8A> Because of the Church, he's<$88> had to do his treasure<$88> hunting in secret.“ <$8D><$8A><END>
+<$88> couldn't have sent his<$88> troops here. That means...“ <$8D><$8A><END>
+then, some things don't<$88> make sense.<$8E><$8A> If they were cooperating,<$88> why was I captured at<$88> Formido,<$8E><$8A> and why would <$87>F follow<$88> the White Fang Troops to<$88> Urodela?<$8E><$8A> I think the Duke of Felis and<$88> the Lord of the North are<$88> pursuing different goals,<$8E><$8A> but we don't have enough<$88> information to be certain.“ <$8D><$8A><END>
+posedly cut ties with<$88> our family and ran away with<$88> her.“ <$8D><$8A><END>
+r of the Batraal<$88> Family had a relationship<$8E><$8A> with <$87>8, then it's no<$88> surprise that they know<$88> about the Sacred Spear.“ <$8D><$8A><END>
+r <$87>S succeeded<$88> him.“ <$8D><$8A><END>
+RAdummy<$8D><$8A><END>
+e<$88> whole time, so I'm sure she<$88> hasn't, either.<$8E><$8A> I plan to keep my promise to<$88> <$87>8.“ <$8D><$8A><END>
+tly<$8E><$8A> living in Blete, the village<$88> that was burnt down during<$88> the Reformation.<$8E><$8A> Perhaps they know something<$88> useful.<$8E><$8A> Also, there's a skilled<$88> spellcaster living by the<$88> ruins north of Tinea.<$8E><$8A> If we can convince him to<$88> assist us, it would surely<$88> be to our advantage.<$8E><$8A> ...But, we heard that he's<$88> an unusual fellow.“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+ar<$8C><$88>“ I don't know. His name was<$88> removed from all family<$8E><$8A> records because of his<$88> cowardice during the war.<$8E><$8A> So, we were unable to<$88> locate any details.“ <$8D><$8A><END>
+at they know<$88> about the Sacred Spear.“ <$8D><$8A> <END>
+nd the Reformation to<$88> Lodisism 15 years ago...<$8E><$8A> Every clue points to<$88> Rananculus.“ <$8D><$8A><END>
+ with deep snow.<$8E><$8A> Do you still want to<$88> go there?“ <$8D><$8A><END>
+ever understand<$8E><$8A> how scary it was escaping<$88> from the forest.<$8E><$8A> It was so dark, and I got<$88> lost many times...<$8E><$8A> I hate snow. Snow is so<$88> cold and harsh, and it hides<$88> everything in existence.“ <$8D><$8A><END>
+don't<$88> want to come, you can stay<$88> behind...“ <$8D><$8A><END>
+<END>
+<END>
+Of course,<$88> I'll protect you.<$8E><$8A> But, you never know what<$88> will happen on the<$88> battlefield.“ <$8D><$8A><END>
+eld.“ <$8D><$8A><END>
+A<$8C><$88>“ Of course I want to be<$88> with you.<$8E><$8A> You know that, don't you?“ <$8D><$8A><END>
+<$8B><$80>A<$8C><$88>“ I'm sorry. Please<$88> understand.<$8E><$8A> You're very important to me.<$88> I don't want to involve you<$88> in this dangerous journey.<$8E><$8A> That's why I can't let<$88> you come with me.“ <$8D><$8A> <END>
+ <$87>8.<$8E><$8A> But, I want you to know that<$88> I really did want to come.“ <$8D><$8A><END>
+ my life.<$8E><$8A> That's why I hoped we'd<$88> share views like this<$88> together, always.<$8E><$8A> I thought I could go anywhere<$88> with you, because you saved<$88> me from that situation.<$8E><$8A> Maybe I expected too much<$88> from you...<$8E><$8A> I thought that I could trust<$88> you, and that you'd never<$88> leave me,<$8E><$8A> but I guess this is<$88> good-bye...“ <$8D><$8A><END>
+rom Rananculus, or<$88> were you hired by <$87>F?“ <$8D><$8A><END>
+he forest ahead is deep.<$88> Don't fall behind!!!“ <$8D><$8A><END>
+fference to me.<$8E><$8A> Soon, you'll all be dinner<$88> for my beasts, which I have<$88> raised with tender care.“ <$8D><$8A><END>
+You're with<$88> <$87>F?!<$8E><$8A> Tell me, has he gone to<$88> meet with the Lord of<$88> Rananculus?“ <$8D><$8A><END>
+is<$88> time...?“ <$8D><$8A><END>
+<$8A><END>
+says he is here for a<$88> private visit.<$8E><$8A> The only soldiers he has with<$88> him are a few bodyguards.<$8E><$8A> He's got some nerve...<$88> but that's all he has.<$8E><$8A> He has no inkling of the<$88> spear's true power.<$8E><$8A> Just let them swim around<$88> in the net for a while.<$8E><$8A> In the end, all we need is<$88> the spear.“ <$8D><$8A><END>
+to?“ <$8D><$8A><END>
+like<$88> them wandering about.“ <$8D><$8A><END>
+talk,<$88> then get back to work.“ <$8D><$8A><END>
+ary.“ <$8D><$8A><END>
+<$B8>QiR2R<END>
+!“ <$8D><$8A><END>
+sy.<$88> This is what you wanted to<$88> know, isn't it?<$8E><$8A> Now, come on kid! Let's<$88> see what you're made of!“ <$8D><$8A><END>
+ut my father's<$8E><$8A> death, and I won't let<$88> anyone interfere.“ <$8D><$8A><END>
+storea<$88> Castle...<$8E><$8A> I won't guarantee that<$88> you'll leave in one piece,<$88> though.“ <$8D><$8A><END>
+al child.“ <$8D><$8A><END>
+<$88> taking me in the middle of<$8E><$8A> the night? It's dark out<$88> here. I want to go home.“ <$8D><$8A><END>
+u<$88> should be more thankful.“ <$8D><$8A><END>
+llen, look!...He's dead.“ <$8D><$8A><END>
+D<$8C><$88>“ That's not true!<$88> I'm...I'm...!!!“ <$8D><$8A><END>
+h<$88> by the beach.<$8E><$8A> On that dark, rainy night,<$88> Father Hamen opened his door<$88> and welcomed me...<$8E><$8A> He saved me...but...“ <$8D><$8A><END>
+ sense in<$88> putting yourself through<$88> this, either.<$8E><$8A> I'll be right here by your<$88> side.“ <$8D><$8A><END>
+.<$8E><$8A> You're here for me now...<$88> so please accept it.“ <$8D><$8A><END>
+n.“ <$8D><$8A><END>
+xA<$8B><$87>E<$8C><$88>“ There's only one way to<$88> find out...<$8E><$8A> Well, let's get going. It's<$88> going to be cold tonight.“ <$8D><$8A><END>
+,<$88> then someone may have<$88> already found it.“ <$8D><$8A><END>
+rd should quickly reach<$88> Naris Batraal and <$87>F.“ <$8D><$8A><END>
+<$A6>D<$E6>D<$AC>EwF<$E6>FUG<$60>G<$B0>G<$7C>H<$58>I<$C6>I<$8A>JOL<$6C>L<$9C>L<$62>M<$B4>M<END>
+Felis.<$8E><$8A> Are you aware that, after<$88> obtaining the Sacred<$88> Spear,<$8E><$8A> he and the Lord of<$88> Rananculus plan to rebel<$88> against Lodis?“ <$8D><$8A><END>
+he Holy Lodis Empire.“ <$8D><$8A><END>
+<$8A><END>
+m you.<$8E><$8A> Your skill on the battlefield<$88> and leadership ability...<$8E><$8A> It's easy to see why the<$88> commander respected you.<$8E><$8A> You're a man of high<$88> caliber...“ <$8D><$8A><END>
+ne-on-one,<$88> I would have lost.“ <$8D><$8A><END>
+y?“ <$8D><$8A><END>
+nows<$88> about the spear,<$8E><$8A> then why would he think that<$88> it's in our possession?<$88> ...It doesn't make sense.“ <$8D><$8A><END>
+ing,<$8E><$8A> and I bet we'll be able to<$88> find out where the spear is,<$88> too.“ <$8D><$8A><END>
+odis,<$8E><$8A> but that's not your only<$88> reason for being here, is<$88> it?<$8E><$8A> ...You know this island so<$88> well. Are you from here?“ <$8D><$8A><END>
+<$8A> and my parents were burned<$88> to death right before my<$88> eyes.<$8E><$8A> I lost everything but my<$88> life.<$8E><$8A> Hmph. Don't take it the<$88> wrong way. I haven't felt<$88> nostalgic for a long time.<$8E><$8A> But, there is one matter I<$88> want to look into while I'm<$88> on this island.“ <$8D><$8A><END>
+xA<$8B><$80>A<$8C><$88>“ If there's something on<$88> your mind,<$8E><$8A> then by all means go...<$88> But <$87>E, be careful.“ <$8D><$8A><END>
+asy to see why the<$88> commander respected you.<$8E><$8A> You're a man of high<$88> caliber...“ <$8D><$8A><END>
+,<$8E><$8A> and don't ever look back at<$88> those you've defeated.<$8E><$8A> ...Good-bye.“ <$8D><$8A><END>
+<$8A><END>
+<$8E><$8A> I'm <$87>w, knight of<$88> Rananculus.<$8E><$8A> Your progress stops here.<$88> I stake my honor on it.“ <$8D><$8A><END>
+g you?“ <$8D><$8A> <END>
+..?<$88> It doesn't make sense.“ <$8D><$8A><END>
+xA<$8B><$87>E<$8C><$88>“ Of course, I have no<$88> intention of abandoning<$8E><$8A> my mission. I leave it in<$88> your hands. Understand?“ <$8D><$8A><END>
+know this island so<$88> well. Are you from here?“ <$8D><$8A> <END>
+rything but my<$88> life.<$8E><$8A> Don't take it the wrong<$88> way. I haven't felt nostalgic<$88> for a long time.<$8E><$8A> But, there is one matter I<$88> want to look into while I'm<$88> on this island.“ <$8D><$8A><END>
+e careful.“ <$8D><$8A> <END>
+oman<$8C><$88>“ Commander Lasanti, you're<$88> here.“ <$8D><$8A><END>
+red to me<$88> that I'd see you here. Please<$88> forgive my thoughtlessness.“ <$8D><$8A><END>
+pears that<$88> she's still alive,<$8E><$8A> but we haven't been able to<$88> learn where the spear is<$88> hidden.<$8E><$8A> A man who's talked to her<$88> at length is on his way to<$88> this castle as we speak.<$8E><$8A> Has your uncle said<$88> anything about it?“ <$8D><$8A><END>
+t he is<$88> trying to take all the<$88> credit for himself.<$8E><$8A> He's probably doing something<$88> behind your back.<$8E><$8A> Remember, I'll always be on<$88> your side.<$8E><$8A> ...I hate my uncle. He is so<$88> greedy and ignorant.“ <$8D><$8A><END>
+ouldn't talk like that.<$8E><$8A> Unclean words will stain<$88> your heart.“ <$8D><$8A><END>
+ure is a nice day today,<$88> Lady <$87>?.<$8E><$8A> Would you like to go<$88> outside?<$8E><$8A> The winter sky here is usually<$88> so dull. It seems to make my<$88> mind feel dull, as well.“ <$8D><$8A><END>
+i, I'll be<$88> waiting for you outside.“ <$8D><$8A><END>
+e stories from<$8E><$8A> outside of Ovis. Anyway, are<$88> things going as planned?“ <$8D><$8A><END>
+is.<$8E><$8A> He shouldn't have been<$88> caught off guard.“ <$8D><$8A><END>
+m our troops' registry<$8E><$8A> for disobeying orders. He is<$88> no friend of mine.“ <$8D><$8A><END>
+ who's on his way<$88> here...<$8E><$8A> He may prove to be more<$88> dangerous than the Duke<$88> or his son...“ <$8D><$8A><END>
+king a direct<$88> attack difficult.<$8E><$8A> I have no idea about the<$88> size of their forces...<$8E><$8A> They may have increased their<$88> numbers to match our power.“ <$8D><$8A><END>
+ltaneously?“ <$8D><$8A><END>
+ng...<$87>G,<$88> your sword instructor...“ <$8D><$8A><END>
+forces up evenly.“ <$8D><$8A><END>
+s,<$8E><$8A> and they may have increased<$88> their numbers if they're<$88> expecting us.“ <$8D><$8A><END>
+A<$8C><$88>“ We're used to fighting in<$88> small numbers.<$8E><$8A> Besides, if we attack at the<$88> same time, it will confuse<$88> them,<$8E><$8A> giving us an advantage.<$88> We'll have to take our<$88> chances.“ <$8D><$8A><END>
+ation<$88> of their forces,<$8E><$8A> please be careful to split<$88> our troops up evenly.“ <$8D><$8A><END>
+<$88> be a tough battle.“ <$8D><$8A><END>
+ady<$88> <$87>G...<$8E><$8A> I'm sorry, but I have orders<$88> from your uncle.<$8E><$8A> I'm not to let anybody in<$88> the castle, not even you.“ <$8D><$8A><END>
+he<$88> would send you...<$8E><$8A> But, I can't retreat. I won't<$88> let my fear take control,<$8E><$8A> even though you are the best<$88> swordmaster in Rananculus.“ <$8D><$8A><END>
+U<$8C><$88>“ Fearless boy, you've<$88> finally come.<$8E><$8A> You know this is the castle<$88> of <$87>S Batraal, don't<$88> you?<$8E><$8A> I won't let you go any<$88> further.<$8E><$8A> Are you prepared to test<$88> your skill againt mine?“ <$8D><$8A><END>
+ou what<$88> fear really means...“ <$8D><$8A><END>
+d learn the<$88> truth about the past...“ <$8D><$8A><END>
+y of it.<$8E><$8A> Please...look after our<$88> troops and Rananculus.“ <$8D><$8A><END>
+e, the spirit<$88> of my sword will live on.<$8E><$8A> Lady <$87>G...I'm glad I got<$88> to see you one last time...“ <$8D><$8A><END>
+ you<$88> one last time...“ <$8D><$8A><END>
+y life will end...?<$8E><$8A> Even if I die, the spirit of<$88> my sword will live on.<$8E><$8A> Oh...Lady <$87>G...<$88> ...please live happily.“ <$8D><$8A><END>
+eant<$88> nothing.<$8E><$8A> For what reason did I draw<$88> my sword!? Oh, Lady<$88> <$87>G...“ <$8D><$8A><END>
+efore, <$87>V?<$8E><$8A> Doesn't he just look<$88> delicious?“ <$8D><$8A><END>
+ Batraal insisted we<$88> come along.“ <$8D><$8A><END>
+<END>
+t.<$8E><$8A> I will defeat that kid here<$88> and regain Lord Batraal's<$88> trust.<$8E><$8A> So you two stay out of this.<$88> I don't need any help.“ <$8D><$8A><END>
+<$8B><$87>V<$8C><$88>“ Don't have too much fun,<$88> <$87>W. See you later.“ <$8D><$8A><END>
+s.<$88> If he resists, kill him!“ <$8D><$8A><END>
+you two, stay out of<$88> this!!!“ <$8D><$8A><END>
+<$88>“ I was planning to get even<$88> with him...<$8E><$8A> Did your leader turn tail<$88> and run? Hahahahaha...<$8E><$8A> Well, are you ready?“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+u<$88> this time.<$8E><$8A> I'll show you just how<$88> different we really are!“ <$8D><$8A><END>
+?“ <$8D><$8A><END>
+ secretly.“ <$8D><$8A><END>
+lict as a cover,<$8E><$8A> and I began my search for<$88> the spear...<$8E><$8A> This much, you must have<$88> guessed.“ <$8D><$8A><END>
+id a few hundred<$88> years ago.<$8E><$8A> Information regarding the<$88> stolen spear was recorded by<$88> his child.“ <$8D><$8A><END>
+maid.<$8E><$8A> The mermaid didn't know it,<$88> but Lucius had a child with<$88> a human.“ <$8D><$8A><END>
+lled his brother,<$8E><$8A> he would never have received<$88> that information.“ <$8D><$8A><END>
+<$87>F, are your father's<$88> orders your only reason<$8E><$8A> for being here?“ <$8D><$8A><END>
+ar,<$88> Longicolnis, I will establish<$88> my own country<$8E><$8A> and defeat anyone who<$88> resists.<$8E><$8A> I will build a beautiful,<$88> orderly nation that reflects<$88> the strict teachings of God.“ <$8D><$8A><END>
+spear to<$88> you or to anyone,<$8E><$8A> because it has powers that<$88> transcend those of<$88> humankind.<$8E><$8A> It must be safeguarded to<$88> prevent its misuse.<$8E><$8A> It must be brought to the<$88> Church of Lodis if peace is<$88> to be maintained.“ <$8D><$8A><END>
+he must have really pulled<$88> the wool over your eyes.<$88> You disappoint me.<$8E><$8A> Well, you have always sought<$88> honor and praise.“ <$8D><$8A><END>
+ok at this!!!“ <$8D><$8A><END>
+trange. <$87>8,<$88> who had stolen the spear,<$8E><$8A> told me of the shrine<$88> where it was hidden.<$8E><$8A> But when I arrived, the<$88> spear was gone.<$8E><$8A> It was obvious that someone<$88> else had been there.“ <$8D><$8A><END>
+nothing of the<$88> sort.“ <$8D><$8A><END>
+<END>
+Don't be fooled by his<$88> words.“ <$8D><$8A><END>
+ you saying?<$88> This is my fiancee.<$8E><$8A> 15 years ago in this<$88> castle...we were...“ <$8D><$8A><END>
+F!!!“ <$8D><$8A><END>
+ an illusion!<$88> Believe me, <$87>F!!!“ <$8D><$8A><END>
+uck...“ <$8D><$8A><END>
+e<$88> one who left!!!“ <$8D><$8A><END>
+iK<$6C>K<$76>K<$80>K<$8E>L<$66>M<$B4>M<$E6>M<$F8>M<$AC>NeO2OqP<$6A>P<$E6>P<$F8>QCR<$8E>RGSeS.S<$BA>S>T<$80>T<$AE>T<$BE>T<$EA>TOU<$C6>U<$7A>W<$B6>W:Y<$8C>Y<$D4>Y<$DE>YCZ4Z<END>
+is place sealed after my<$88> father died.“ <$8D><$8A><END>
+st. But, I know that<$88> couldn't have been her.“ <$8D><$8A><END>
+ members of the Batraal<$8E><$8A> Family. But, it's been<$88> sealed by order of Lord<$88> <$87>S, so no one can enter.“ <$8D><$8A><END>
+<$8B><$80>A<$8C><$88>“ <$87>D...?“ <$8D><$8A><END>
+ummer we were...“ <$8D><$8A><END>
+.it...“ <$8D><$8A><END>
+I DWELL IN THE DARKNESS OF<$88> THE HEART, PROJECTING<$88> ILLUSIONS FROM WITHIN.<$8E><$8A> LONG HAVE I WAITED IN THAT<$88> GIRL'S BODY.<$8E><$8A> I HAVE BEEN SEARCHING...<$8E><$8A> FOR THE BLACK FRAGMENT OF<$88> LONGICOLNIS, WHICH HAS<$88> BROKEN AWAY FROM MY BODY.“ <$8D><$8A><END>
+<$8D><$8A><END>
+UR HEART HAS BEEN<$88> UNCONSTRAINED,<$8E><$8A> HIS HAS BEEN BURDENED BY<$88> THE OBLIGATIONS OF STATUS.“ <$8D><$8A><END>
+ave you disguised<$88> yourself as my sister?!“ <$8D><$8A><END>
+NESS,<$88> AFRAID OF DEATH,<$8E><$8A> CALLED OUT TO ME.<$8E><$8A> AND SHE WISHED TO BECOME<$88> ONE.“ <$8D><$8A><END>
+'s image for<$88> your own foul deeds!!!“ <$8D><$8A><END>
+ONLY ACCEPTED ME,<$8E><$8A> YOU WOULD HAVE GAINED<$88> IMMORTALITY AND<$88> UNIMAGINABLE POWER...<$8E><$8A> AN END TO SUFFERING...“ <$8D><$8A><END>
+ic Voice<$8C><$88>“ LET US SAY THAT I AM<$88> NOT FAR FROM GOD.<$8E><$8A> SON OF MAN, I HAVE A<$88> TASK FOR YOU.<$8E><$8A> MY BODY IS STILL BOUND BY<$88> AN ANCIENT SEAL.<$8E><$8A> TAKE THE BLACK FRAGMENT TO<$88> THE NORTH AND BREAK<$88> THE SEAL<$8E><$8A> THAT BARS MY ACCESS<$88> TO THIS WORLD.“ <$8D><$8A><END>
+ Do you think<$88> I'd ever do that for you?“ <$8D><$8A><END>
+EASON TO<$88> DENY YOUR FATE?<$8E><$8A> YOU SHALL BE FREED FROM THAT<$88> PRISON YOU CALL A BODY.<$8E><$8A> WHATEVER YOU DESIRE SHALL BE<$88> YOURS, AND WHAT IS LOST WILL<$88> BE REGAINED.<$8E><$8A> YOU ARE THE CHOSEN ONE!“ <$8D><$8A><END>
+ng I want,<$88> I'll find it on my own.<$8E><$8A> Now leave my presence,<$88> foul demon!!!“ <$8D><$8A><END>
+<END>
+ARKNESS.“ <$8D><$8A><END>
+ I came to Rananculus with my<$88> father.<$8E><$8A> I used to play with a girl<$88> named <$87>?,<$8E><$8A> the daughter of the lord who<$88> lived in this castle.“ <$8D><$8A><END>
+ my<$88> treasure.<$8E><$8A> But, a few days later, I<$88> dropped it in the castle.<$8E><$8A> I watched it disappear into<$88> the darkness below,<$8E><$8A> but because she said it had<$88> fallen into a crypt, I was<$88> too afraid to go after it.<$8E><$8A> The summer ended and I<$88> returned to Felis with my<$88> father.<$8E><$8A> Soon, I had forgotten about<$88> it entirely...“ <$8D><$8A><END>
+ his<$88> heart, enmity toward<$88> humans,<$8E><$8A> and he wants to return to<$88> this world.<$8E><$8A> But, his body is still<$88> resting deep inside a wall<$88> of ice.<$8E><$8A> The Sacred Spear is the<$88> key.<$8E><$8A> Please, find his resting place<$88> and kill this evil demon<$88> before he is resurrected.“ <$8D><$8A><END>
+<$88>“ What can I do...?<$8E><$8A> ...<$87>F!!!“ <$8D><$8A><END>
+atraal Family.<$8E><$8A> Our ancestors are sleeping<$88> here.<$8E><$8A> However, Uncle <$87>S ordered<$88> this place sealed after my<$88> father died.“ <$8D><$8A><END>
+<$8A> My sister...<$87>?...<$88> passed away 7 years ago...<$8E><$8A> I didn't believe my eyes at<$88> first. But, that couldn't<$88> have been her.“ <$8D><$8A><END>
+ there? <$87>D,<$88> what is this place?“ <$8D><$8A><END>
+ The air feels so heavy in<$88> here...as if it were pulling<$88> us down...“ <$8D><$8A><END>
+ Lord <$87>S.“ <$8D><$8A><END>
+erything<$88> you saw back then...“ <$8D><$8A><END>
+<$88>“ I had heard about <$87>?'s<$88> death,<$8E><$8A> but thinking about it was<$88> too difficult.<$8E><$8A> There's one thing I know for<$88> certain...You are not her!“ <$8D><$8A><END>
+nt.“ <$8D><$8A><END>
+on't give it to him...“ <$8D><$8A><END>
+ay.<$8E><$8A> It would be a shame for you<$88> to die without witnessing<$88> its power.“ <$8D><$8A><END>
+..<$8E><$8A> A fragment from the Sacred<$88> Spear, Longicolnis.<$8E><$8A> A while back, a pair of<$88> wizards, twins, came to me<$88> and told me that a person<$8E><$8A> of great significance is<$88> sleeping in the northern<$88> mountains.<$8E><$8A> His name is <$87>Y. He is an<$88> archangel,<$8E><$8A> a disciple of God who fought<$88> for humans during the Ogre<$88> Battle.“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+ you received his love, too!“ <$8D><$8A><END>
+ did not put up a<$88> fight or even attempt to<$88> negotiate.<$8E><$8A> He was a fool. That's why I<$88> killed him.<$8E><$8A> We couldn't afford to lose<$88> everything because of his<$88> incompetence.“ <$8D><$8A><END>
+, kid?<$8E><$8A> Power is everything in<$88> this world.<$8E><$8A> Negotiation, treaties...<$88> Those are tools of the<$88> powerless.<$8E><$8A> Just look at my brother,<$88> William.<$8E><$8A> Because of his incompetence,<$88> he was afraid to fight and<$88> gave in to Lodis.“ <$8D><$8A><END>
+aved<$88> many people's lives.<$8E><$8A> Could you have guaranteed<$88> victory if you'd fought?<$88> Power is not a toy!“ <$8D><$8A><END>
+or...<$88> They have lost their<$88> former pride.“ <$8D><$8A><END>
+you are being<$88> called by the archangel.<$8E><$8A> He told me that he'll<$88> welcome to his family<$8E><$8A> the one who finds the<$88> spear and breaks the seal.“ <$8D><$8A><END>
+our brother?“ <$8D><$8A><END>
+ it is like to be in the<$88> others' shoes.<$8E><$8A> But, by rising above my<$88> human limitations...<$88> anything would be possible.<$8E><$8A> I want people to admit what<$88> the logic of this world<$88> doesn't......That's all.“ <$8D><$8A><END>
+power...<$88> To receive it, you must be<$88> commited...<$8E><$8A> You will sacrifice much in<$88> exchange for that power.“ <$8D><$8A><END>
+<$FE>K<$7C>LMM<$A0>M2N<$B8>N0O<END>
+being<$88>possessed, caused a state<$88>of panic.<END>
+to calm people's<$88>fears.<END>
+However, if <$87>F's<$88>father, the Duke, learned<$88>of <$87>F's death, he<$88>would surely take some<$88>kind of action. <$80>A<$88>was running out of time.<END>
+ed to<$88>chase after him.<END>
+ to solve<$88>these mysteries. No one<$88>knows what awaits him<$88>there...<END>
+as<$88>revealed about the death<$88>of Lord William, and the<$88>evil spirit that<$88>possessed Lady <$87>?.<$8D><$8A><END>
+dest daughter of the<$88>former lord, William,<$88>helped to calm people's<$88>fears.<END>
+in one<$88>direction, towards the<$88>Vurtar and Turgus<$88>Mountains.<END>
+e<$88>sky, <$80>A and his<$88>troops prepared for an<$88>expedition to the<$88>northern mountains.<END>
+ that<$88>possessed <$87>?...<END>
+nti to Rananculus,<$88>were eventually able to<$88>force the surrender of<$88>Ostorea Castle.<END>
+ned at<$88>Ostorea Castle, were<$88>searching for <$87>S and<$88>researching the history<$88>of the island, the<$88>Batraals, and the spear.<END>
+ after him.<END>
+he spear.<END>
+Ye<$D8>e-f<$C6>g<$D0>hIiui<$66>i<$C2>i<$E8>i<$F8>i]j<$8C>j<$A6>j<$D8>j<$FC>j0l<$EE>l<$BC>mMnApup<$6A>q<$E4>qir<$E2>r s<$CC>t<$9A>u<$DA>u-v<$E0>vUw<$CC>w]x<$FC>xSy<$A0>y<$EA>ykz2z<$FE>z<END>
+my grandmother<$88> was looking after me,<$8E><$8A> but I returned to the castle<$88> after hearing news of my<$88> father's death.<$8E><$8A> Because my mother didn't know<$88> much about politics,<$8E><$8A> and because my sister and I<$88> were still young,<$8E><$8A> she didn't have any<$88> objections to my uncle<$88> becoming Lord.<$8E><$8A> So, we left the castle and<$88> moved to a villa in the<$88> country.“ <$8D><$8A><END>
+ys in poor health.<$8E><$8A> Doctors told us not to<$88> expect her to live a very<$88> long life.“ <$8D><$8A><END>
+or the castle,<$8E><$8A> he asked on more than one<$88> occasion if I knew of<$8E><$8A> something that had been<$88> handed down in the family.“ <$8D><$8A><END>
+about the same time,<$88> rumors began to circulate.<$8E><$8A> People were saying that my<$88> father had been murdered.<$8E><$8A> I had my own suspicions,<$88> and so I left the troops of<$88> Rananculus.<$8E><$8A> I've already told you what<$88> happened after that.“ <$8D><$8A><END>
+ about<$88> those two spellcasters?“ <$8D><$8A><END>
+xA<$8B><$87>G<$8C><$88>“ If my uncle really has<$88> pledged himself to<$8E><$8A> darkness, then I must go<$88> after him and try to stop<$88> him.“ <$8D><$8A><END>
+arching<$88> in the castle library,<$8E><$8A> we were able to find several<$88> documents that caught our<$88> attention,<$8E><$8A> as well as a geneology of<$88> the Batraals.<$8E><$8A> We learned that there was a<$88> family member named Lucius<$8E><$8A> who had a child with a woman<$88> named Celena.“ <$8D><$8A><END>
+A<$8C><$88>“ Lucius...He's the one that<$88> <$87>8 fell in love with.<$8E><$8A> Then, what <$87>F said must<$88> be true.“ <$8D><$8A><END>
+eautiful black spear.<$88> However, its whereabouts<$88> were unknown.“ <$8D><$8A><END>
+...Prison? But why?“ <$8D><$8A><END>
+is island is home to such<$88> a mystic place.“ <$8D><$8A><END>
+Holy Lodis Empire<$88> arrived here.<$8E><$8A> His wife had no intention of<$88> assuming his position,<$8E><$8A> and his daughters were still<$88> too young, so his brother,<$88> <$87>S, became Lord.“ <$8D><$8A><END>
+tive<$8C><$88>“ That's right. He had two<$88> daughters.<$8E><$8A> But, the younger one, Lady<$88> <$87>?, passed away when<$88> she was 13 due to illness.<$8E><$8A> But, it's very strange.<$8E><$8A> Until you came to this<$88> castle, no one questioned<$88> her presence.“ <$8D><$8A><END>
+ghter, Lady<$88> <$87>G, became a knight<$8E><$8A> and served Lord <$87>S, but,<$88> as rumors spread about the<$88> death of her father,<$8E><$8A> she left the castle.“ <$8D><$8A><END>
+ed his<$88> title.<$8E><$8A> Lord <$87>S changed a<$88> lot after he assumed his<$88> brother's position.<$8E><$8A> He stopped talking to us<$88> directly. He would only<$88> listen to those twins...“ <$8D><$8A><END>
+ his<$88> objective.<$8E><$8A> And what about all of you?“ <$8D><$8A><END>
+aged to<$88> escape death.<$8E><$8A> But, he's undergone<$88> tremendous mental strain.<$8E><$8A> His memory has been restored<$88> through hallucinations and<$88> mental control.<$8E><$8A> He'll need to rest for a<$88> while.<$8E><$8A> If his mind is disturbed<$88> before he recovers<$88> completely,<$8E><$8A> it may destroy him.“ <$8D><$8A><END>
+Lord <$87>S.<$8E><$8A> What will you do?“ <$8D><$8A><END>
+d?“ <$8D><$8A><END>
+ht<$88> alongside humans during the<$88> legendary Ogre Battle.“ <$8D><$8A><END>
+his island?“ <$8D><$8A><END>
+en.<$8E><$8A> ...The descent to earth...<$88> ...means the loss of both<$88> power and beauty.<$8E><$8A> It must be the most shameful<$88> punishment the residents of<$88> heaven can receive.“ <$8D><$8A><END>
+t want to.“ <$8D><$8A><END>
+well<$88> known by any child before<$88> the Reformation.“ <$8D><$8A><END>
+entance.“ <$8D><$8A><END>
+elves to<$88> others is the only way<$8E><$8A> to measure our existence.“ <$8D><$8A><END>
+the North,<$88> aren't you?<$8E><$8A> I'm glad I made it back in<$88> time. I'd like to go with<$88> you from now on.“ <$8D><$8A><END>
+nd<$88> humans.<$8E><$8A> They are said to have fought<$88> alongside humans during the<$88> legendary Ogre Battle.“ <$8D><$8A> <END>
+e angels to<$8E><$8A> fight for them. The Angels'<$88> only purpose was to obey<$88> God,<$8E><$8A> but there was an angel who<$88> loved God so deeply,<$8E><$8A> that he became jealous of<$88> the humans.<$8E><$8A> He started a rebellion in<$88> hopes of attracting God's<$88> attention,<$8E><$8A> but because of it, he was<$88> cast out of heaven.<$8E><$8A> This is an old legend, well<$88> known on this island.“ <$8D><$8A><END>
+...and I...<$8E><$8A> Is comparing ourselves to<$88> others the only way to<$88> measure our existence?“ <$8D><$8A><END>
+t be your leader.<$8E><$8A> Please let your conscience<$88> be your guide, as before.“ <$8D><$8A><END>
+nothing more to say.“ <$8D><$8A><END>
+ffense is to fall<$88> from heaven.<$8E><$8A> ...The descent to earth...<$88> ...means the loss of both<$88> power and beauty.<$8E><$8A> It must be the most shameful<$88> punishment the residents of<$88> heaven can receive.“ <$8D><$8A><END>
+d sealed him in the land of<$88> eternal ice, without means of<$88> escape,<$8E><$8A> and sentenced him to an<$88> eternity of repentance.“ <$8D><$8A><END>
+. Lord Batraal was<$88> jealous of his brother,<$8E><$8A> so much so that he...“ <$8D><$8A><END>
+agment in the sand in a<$88> small shrine on the beach.<$8E><$8A> I kept the shiny piece as<$88> my treasure.<$8E><$8A> But, a few days later, I<$88> dropped it in the castle.<$8E><$8A> I watched it disappear into<$88> the darkness below,<$8E><$8A> but because she said it had<$88> fallen into a crypt, I was<$88> too afraid to go after it.<$8E><$8A> The summer ended and I<$88> returned to Felis with my<$88> father.<$8E><$8A> Soon, I had forgotten about<$88> it entirely...“ <$8D><$8A><END>
+of his purpose.<$8E><$8A> He has only hatred in his<$88> heart, enmity towards<$88> humans,<$8E><$8A> and he wants to return to<$88> this world.<$8E><$8A> But, his body is still<$88> resting deep inside a wall<$88> of ice.<$8E><$8A> ...The very existence of<$88> the spear is a threat to<$88> humanity.“ <$8D><$8A><END>
+, I'll go with<$88> you.<$8E><$8A> I must defeat him before<$88> he regains his true<$88> power...<$8E><$8A> ...for the<$88> sake of us all.“ <$8D><$8A><END>
+ween God<$88> and humans.<$8E><$8A> They are said to have fought<$88> alongside humans during the<$88> legendary Ogre Battle.“ <$8D><$8A> <END>
+ordered the angels to<$8E><$8A> fight for them.<$8E><$8A> The angels' only purpose was<$88> to obey God,<$8E><$8A> but there was an angel who<$88> loved God so deeply, that he<$88> became jealous of humans.<$8E><$8A> He started a rebellion in<$88> hopes of attracting God's<$88> attention,<$8E><$8A> but because of it, he was<$88> cast out of heaven.<$8E><$8A> This is an old legend, well<$88> known on this island.“ <$8D><$8A><END>
+ brother,<$8E><$8A> so much so that he...“ <$8D><$8A> <END>
+ Your wounds have not yet<$88> healed completely.<$8E><$8A> Leave everything to me and<$88> get the rest that you need.“ <$8D><$8A><END>
+rry. I have my<$88> comrades.<$8E><$8A> Leave everything to me and<$88> get the rest that you need.“ <$8D><$8A><END>
+ged himself to<$8E><$8A> the evil spirit that<$88> tempted him,<$8E><$8A> then it is my duty to<$88> vanquish it.<$8E><$8A> I can't let there be any<$88> more victims.“ <$8D><$8A><END>
+objective.<$8E><$8A> And what about all of you?“ <$8D><$8A><END>
+ lived in Sotavento.<$8E><$8A> Even <$87>8 is barely a<$88> memory for her.<$8E><$8A> Why are you asking about<$88> this all of a sudden,<$88> <$87>E? Is something wrong?“ <$8D><$8A><END>
+<$D2>F<$F4>F<END>
+st time fighting one.<$8E><$8A> I can't let you interfere<$88> with the resurrection of<$88> Lord <$87>Y.<$8E><$8A> I'm sorry, but this<$88> is where you die.“ <$8D><$8A><END>
+ leaving now, <$87>W.<$88> Don't worry, I'll be back.“ <$8D><$8A><END>
+ns!“ <$8D><$8A><END>
+.“ <$8D><$8A><END>
+n't let you interfere<$88> with the resurrection of<$88> Lord <$87>Y.<$8E><$8A> I'm sorry, but this is<$88> where you die.“ <$8D><$8A><END>
+rather<$88> useful.<$8E><$8A> I can't let you interfere<$88> with the resurrection of<$88> Lord <$87>Y.<$8E><$8A> I'm sorry, but this is<$88> where you die.“ <$8D><$8A><END>
+t has guided me...“ <$8D><$8A><END>
+angel!?<$88> Surely you jest!“ <$8D><$8A><END>
+ told me that a being of<$88> great power is sleeping<$8E><$8A> in the northern mountains.<$8E><$8A> It is an angel whose body<$88> has been stained black with<$88> sin,<$8E><$8A> an angel that fell from<$88> heaven and was sealed here<$88> by God.<$8E><$8A> His name is <$87>Y,<$8E><$8A> the archangel who fought<$88> for humans during the<$88> Ogre Battle.“ <$8D><$8A><END>
+<$88>“ Awaken, Ancient One!<$8E><$8A> I am the one who has<$88> responded to your plea.<$88> Reveal your true form to me!“ <$8D><$8A><END>
+as far as you'll<$88> get, <$87>S Batraal.“ <$8D><$8A><END>
+ strong exploit the weak,<$88> the wealthy exploit the<$88> poor.<$8E><$8A> Most of them will never know<$88> what it is like to be in the<$88> others' shoes.<$8E><$8A> But, by rising above my<$88> human limitations...<$88> anything would be possible.<$8E><$8A> I'll fulfill his wish and<$88> gain immeasurable power...<$88> because I'm the chosen one!“ <$8D><$8A><END>
+t you into an<$88> abyss of fear and despair!“ <$8D><$8A><END>
+orn<$88> before me, he became Duke of<$88> this region.<$8E><$8A> ...Doesn't that seem a bit<$88> unfair to you?“ <$8D><$8A><END>
+at we<$88> renounce our faith, pay them<$88> taxes,<$8E><$8A> and send our youngest sister<$88> to them to guarantee our<$88> cooperation.<$8E><$8A> That coward did not put up a<$88> fight or even attempt to<$88> negotiate.<$8E><$8A> He was a fool. That's why I<$88> killed him.<$8E><$8A> We couldn't afford to lose<$88> everything because of his<$88> incompetence.“ <$8D><$8A> <END>
+ther,<$88> William.<$8E><$8A> Because of his incompetence,<$88> he was afraid to fight and<$88> gave in to Lodis.“ <$8D><$8A><END>
+e! Lodisians like you<$88> would never understand!<$8E><$8A> What remains for the<$88> powerless? Look at the<$88> people on this island.<$8E><$8A> They have no honor...<$88> They have lost their<$88> former pride.“ <$8D><$8A><END>
+greedy humans are! Such<$88> power can only cause misery.“ <$8D><$8A><END>
+ your<$88> ravenous desire for power!“ <$8D><$8A><END>
+ consumed by his ambition...<$8E><$8A> You sought a power that no<$88> human was meant to wield.“ <$8D><$8A><END>
+ you can fathom.<$8E><$8A> There's no way of knowing<$88> what dangers we may face,<$8E><$8A> and I can't guarantee that<$88> we'll return alive. But...<$8E><$8A> I can sense it. There's<$88> someone waiting for us...<$8E><$8A> He and the Sacred Spear are<$88> calling for each other.“ <$8D><$8A><END>
+, everyone!“ <$8D><$8A><END>
+.Lord <$87>S!!! What are<$88> you doing...Aghhh!!!“ <$8D><$8A><END>
+<$D6>cWd2d<$82>dceue4e<$58>e<$62>f<$BE>f<$84>g<$96>g h<$8C>hKi<$60>i<$AA>i<$E2>i<$EC>i<$D8>j<$72>k<$5E>l<$9C>lomsn<END>
+<$88>“ I learned that the word<$88> Longicolnis originally<$8E><$8A> meant 'long horn'...<$8E><$8A> A black horn is more fitting<$88> than a beautiful halo for a<$88> fallen angel.“ <$8D><$8A><END>
+d was sealed here<$88> by God.<$8E><$8A> His name is <$87>Y. He is an<$88> archangel who fought for<$88> humans in the Ogre Battle.“ <$8D><$8A><END>
+“ <$8D><$8A><END>
+trust you.“ <$8D><$8A><END>
+ I can't go with you.<$8E><$8A> Now, why don't you give<$88> me the spear fragment?“ <$8D><$8A><END>
+xAINDEED...HE CANNOT BE<$88>TRUSTED. HE HAS FORGOTTEN<$88>THAT YOU SAVED HIS LIFE.<$8E><$8A>HE REALIZES NOT THAT IT<$88>WAS YOU WHO MADE<$88>EVERYTHING POSSIBLE,<$8E><$8A>AND BECAUSE OF HIS FRIEND'S<$88>INFLUENCE, HE HAS KEPT<$88>YOU AT ARM'S LENGTH.<$8D><$8A><END>
+e!!!“ <$8D><$8A><END>
+D TO HIM AND<$88> EARNED HIS TRUST,<$8E><$8A> WHICH MEANS YOU HAVE CHOSEN<$88> TO PUT YOUR FAITH IN HIM<$88> RATHER THAN IN HER.“ <$8D><$8A><END>
+TECTS,<$8E><$8A> A FRIENDSHIP THAT<$88> HAS ENDURED MANY<$88> HARDSHIPS,<$8E><$8A> AND COMRADES THAT HAVE<$88> FOUGHT AT HIS SIDE...<$8E><$8A> WHAT MORE DOES HE NEED?<$88> YOU ARE OF NO USE TO<$88> HIM.“ <$8D><$8A><END>
+MPTINESS<$88> IN YOUR HEART.<$8E><$8A> YOU AND I WILL BRING<$88> DESTRUCTION AND CHAOS TO<$88> THIS WORLD.<$8E><$8A> WOMAN, WHAT IS IT THAT YOU<$88> WISH FOR?“ <$8D><$8A><END>
+e's nothing you can do.“ <$8D><$8A><END>
+.<$8E><$8A> A CONTRACT HAS BEEN MADE<$88> WITH THIS WOMAN. I WILL<$88> FULFILL MY PROMISE.<$8E><$8A> I HAVE BEEN SEARCHING FOR<$88> THE BLACK FRAGMENT OF<$88> LONGICOLNIS,<$8E><$8A> WHICH HAS BROKEN AWAY FROM<$88> MY BODY.“ <$8D><$8A><END>
+<$88> SPEAR,<$8E><$8A> I WILL BE RESURRECTED.<$8E><$8A> I SHOULD THANK YOU. YOU<$88> SAVED ME THE TROUBLE OF<$88> BRINGING IT HERE.<$8E><$8A> FOR THAT, I WILL MAKE A<$88> TOAST WITH YOUR BLOOD.“ <$8D><$8A><END>
+?<$8E><$8A> Do you understand?<$88> I can't go with you.<$8E><$8A> Now, why don't you give<$88> me the spear fragment?“ <$8D><$8A> <END>
+ of life.“ <$8D><$8A><END>
+IM.“ <$8D><$8A><END>
+s.<$88> Do you understand?<$8E><$8A> I can't go with you.<$8E><$8A> Now, why don't you give<$88> me the spear fragment?“ <$8D><$8A><END>
+o live you life.“ <$8D><$8A><END>
+E TO HIM.“ <$8D><$8A><END>
+D<$88> EACH OTHER'S FEELINGS.“ <$8D><$8A><END>
+WILL ONLY BE HURTING HER.<$8E><$8A> DO YOU ACTUALLY BELIEVE YOU<$88> CAN SAVE HER?“ <$8D><$8A><END>
+A<$8C><$88>“ <$87>E!!!“ <$8D><$8A><END>
+.<$8E><$8A> TRY AS YOU MIGHT, YOU<$88> CANNOT EVEN SCRATCH ME.“ <$8D><$8A> <END>
+ NORTH AND BREAK<$88> THE SEAL<$8E><$8A> THAT BARS MY ACCESS<$88> TO THIS WORLD.“ <$8D><$8A> <END>
+ <END>
+BE WAITING FOR<$88> YOU...“ <$8D><$8A><END>
+It's too late.<$88> What's done is done.<$8E><$8A> We can't go back and<$88> change it. <$80>A,<$88> don't blame yourself.<$8E><$8A> I'm the one who allowed<$88> my mind to be possessed.“ <$8D><$8A><END>
+so hard<$88> for me to accept.<$8E><$8A> There's nothing I can do<$88> about it.“ <$8D><$8A><END>
+xA<$8B><$87>E<$8C><$88>“ ...I hate myself...<$8E><$8A> Even though I love you,<$88> I still don't trust you.<$88> My mind is not that simple.<$8E><$8A> <$80>A...<$88> Please take good care of<$88> <$87>D...“ <$8D><$8A><END>
+return.<$8E><$8A> There's no telling what lies<$88> ahead.<$8E><$8A> It will probably be more than<$88> any one of us can fathom.<$8E><$8A> But...I can sense it.<$88> There's someone waiting for<$88> us...<$8E><$8A> He and the Sacred Spear are<$88> calling for each other.“ <$8D><$8A><END>
+'ve come this far...<$88> Let's see it through to the<$88> end.“ <$8D><$8A><END>
+<END>
+ng me.“ <$8D><$8A><END>
+id this by choice?<$8E><$8A> How could you?!“ <$8D><$8A><END>
+nderstand?<$88> I can't go with you.<$8E><$8A> Now, why don't you give<$88> me the spear fragment?“ <$8D><$8A><END>
+<$8C><$88>“ WOMAN...YOU ARE NO<$88> FOOL.<$8E><$8A> YOU SEE HOW IT IS,<$88> RIGHT?<$8E><$8A> GROWING AMBITION AND<$88> CONFIDENCE IN BATTLE,<$8E><$8A> THE ABILITY TO LIVE ALONE<$88> WITHOUT RELYING ON<$88> ANYONE...<$8E><$8A> WHAT MORE DOES HE NEED?<$88> YOU ARE OF NO USE TO<$88> HIM.“ <$8D><$8A><END>
+t how you really feel?“ <$8D><$8A><END>
+G.<$8E><$8A> AND, YOU HAVE AVOIDED HER<$88> COUNSEL WHILE SEEKING THAT<$88> OF YOUR FRIEND.<$8E><$8A> YOU PERSISTED IN DISCOVERING<$88> HIS INTENTIONS.<$8E><$8A> YOU HAVE USED HER FOR YOUR<$88> OWN BENEFIT.“ <$8D><$8A><END>
+THAT HE<$88> PROTECTS, GROWING AMBITION<$88> AND CONFIDENCE IN BATTLE,<$8E><$8A> COMRADES THAT HAVE FOUGHT<$88> AT HIS SIDE...<$8E><$8A> WHAT MORE DOES HE NEED?<$88> YOU ARE OF NO USE TO HIM.“ <$8D><$8A> <END>
+<$8D><$8A><END>
+ need.“ <$8D><$8A><END>
+<$8A> were created by God<$88> for confinement.<$8E><$8A> <$80>A, we can't turn<$88> back from here.<$8E><$8A> Are you ready?“ <$8D><$8A><END>
+UO<$72>O<$8E>O<$A2>O<$BC>O<$70>P<$EE>P<$CC>Q<$88>R<$D4>RcS]SKT<$D4>T<$DE>T<$E8>T… U<$64>U<$80>UoVyV8V<$D8>VmW<$DA>W<$B8>XEY<$B2>Y<$BC>Y<$FC>Y<$B2>Zkaeb2b<$62>b<$8C>b<$B4>b<$F6>b0c<$86>c<$B2>c<END>
+<$88>“ <$80>A, what's wrong?<$88> There's no one there.“ <$8D><$8A><END>
+our eyes, I am<$88> what you wish to see.<$8E><$8A> Welcome to my palace...<$88> I am <$87>Y,<$88> Lord of this realm.“ <$8D><$8A><END>
+,<$88> lady. That's correct.<$8E><$8A> This form is only temporary.<$88> I still require more strength<$88> to break free of the seal.<$8E><$8A> Sorrow, jealousy...<$88> these dismal emotions give<$88> me strength.<$8E><$8A> Go ahead! Fight with your<$88> comrade once more!“ <$8D><$8A><END>
+d by your<$88> illusions any longer!“ <$8D><$8A><END>
+..?“ <$8D><$8A><END>
+here's<$88> no turning back now.“ <$8D><$8A><END>
+ free of the seal.<$8E><$8A> Sorrow, jealousy...<$88> these dismal emotions give<$88> me strength.<$8E><$8A> So, will you fight against<$88> a girl so dear to you?“ <$8D><$8A><END>
+<$8A> You are not <$87>E.<$88> Why do you deceive me?“ <$8D><$8A><END>
+gth.<$8E><$8A> So, will you fight against<$88> the woman who betrayed you?“ <$8D><$8A><END>
+fallen angel fell into<$88> a sleep before losing his<$88> beautiful appearance.“ <$8D><$8A><END>
+e dismal emotions give<$88> me strength.<$8E><$8A> So, will you fight against<$88> the woman you loved?“ <$8D><$8A><END>
+ correct.<$8E><$8A> This form is only temporary.<$88> I still require more strength<$88> to break free of the seal.<$8E><$8A> Sorrow, jealousy...<$88> these dismal emotions give<$88> me strength.<$8E><$8A> So, will you fight against<$88> the woman you loved?“ <$8D><$8A><END>
+se tell me...<$88>Why do you love humans?<$8E><$8A>...Because they were made<$88>in your image...!?<$8D><$8A><END>
+mind...Was that...<$88> the fallen angel...?“ <$8D><$8A><END>
+the tower.<$8E><$8A> Well, what do you think?“ <$8D><$8A><END>
+ sighted up there.<$8E><$8A> Fighting at such heights,<$88> they'll have the advantage.<$8E><$8A> We'll have to make sure<$88> that we watch our footing.“ <$8D><$8A><END>
+ful how we<$88> split our forces. We'll have<$88> one group wait here.“ <$8D><$8A><END>
+ over you.“ <$8D><$8A><END>
+n't a voice...<$88> It was more like a feeling,<$8E><$8A> the feeling of being alone...<$88> like this cold air<$88> around me...<$8E><$8A> Does that make any sense?“ <$8D><$8A><END>
+ogether.“ <$8D><$8A><END>
+ is said that the fallen<$88> angel dwells in the<$8E><$8A> empty space inside of us.<$8E><$8A> But, for now, let's just<$88> think about getting out of<$88> here safely.“ <$8D><$8A><END>
+ here.<$8E><$8A> One group will head for<$88> the garden,<$8E><$8A> and the other will take the<$88> central stairs that lead to<$88> the tower.<$8E><$8A> Well, what do you think?“ <$8D><$8A><END>
+ Fighting at such heights,<$88> they'll have the advantage.<$8E><$8A> We'll have to make sure<$88> that we watch our footing.“ <$8D><$8A><END>
+felt more like a spirit,<$88> wandering the abyss...<$8E><$8A> I can't tell if it was real<$88> or an illusion...Creepy.“ <$8D><$8A><END>
+arden,<$8E><$8A> and the other will take the<$88> central stairs that lead to<$88> the tower.<$8E><$8A> Well, what do you think?“ <$8D><$8A><END>
+ they'll have an advantage.<$8E><$8A> Besides, we have no idea<$88> how the building is<$88> structured.<$8E><$8A> We'd better split into<$88> two groups and head for<$88> the top.<$8E><$8A> We'll get going as soon as<$88> the troops have been<$88> organized.“ <$8D><$8A><END>
+sir.<$88> One other thing...<$8D><$8A><END>
+nt to put anyone<$88> else's life in danger.<$8E><$8A> Please wait here.“ <$8D><$8A><END>
+ Lord <$87>Y's<$88> realm.<$8E><$8A> We have been waiting for<$88> you.<$8E><$8A> Your life will be sacrificed<$88> in his honor.“ <$8D><$8A><END>
+eal his true form.<$8E><$8A> Why don't you celebrate the<$88> birth of a magnificent demon<$88> with me!!!“ <$8D><$8A><END>
+petite for battle<$88> will be your ruin.<$8E><$8A> Soon you'll realize the<$88> difference between us.“ <$8D><$8A><END>
+ He is a supreme being,<$88> uniting light and shadow.<$8E><$8A> Let us celebrate the birth<$88> of an omnipotent ruler!!!“ <$8D><$8A><END>
+oy, your recklessness<$88> will be your ruin.<$8E><$8A> Soon you will realize the<$88> difference between us.“ <$8D><$8A><END>
+ prepared to defeat him.<$8E><$8A> We're almost there.<$88> Be careful!!!“ <$8D><$8A><END>
+el will surely<$88> try to reclaim Longicolnis.<$8E><$8A> When the time comes, I must<$88> be prepared to defeat him.<$8E><$8A> My goal is near.<$88> I've got to remain focused.)<$8D><$8A><END>
+e circle of<$88> life. He won't be able to<$88> return anymore...<$8E><$8A> Then, why does he struggle<$88> for his freedom?<$8E><$8A> Why does he rebel...when only<$88> destruction lies ahead...?“ <$8D><$8A><END>
+anded us to<$88> love his children.<$8E><$8A> You serve the wrong<$88> master. <$87>Y has<$88> fallen from heaven.<$8E><$8A> Do you wish to fall as well?“ <$8D><$8A><END>
+ly restricts us.<$88> Falling from heaven<$88> is not a punishment.<$8E><$8A> It is the severing of<$88> God's chain...<$88> liberation from his laws.<$8E><$8A> Who decided that this was<$88> a sin?...God himself.“ <$8D><$8A><END>
+ role.<$8E><$8A> What can come of chaos?<$8E><$8A> I'll defeat you before your<$88> wings become stained too!“ <$8D><$8A><END>
+esting that<$88> I ally myself with him?<$8E><$8A> You can't be serious.<$8E><$8A> Even though he has fallen,<$88> he was once an apostle<$88> of God in heaven.<$8E><$8A> You think I'd serve a<$88> long-time rival?“ <$8D><$8A><END>
+ forever.<$8E><$8A> God, who demands our faith<$88> in him, is the impediment to<$88> our progress.<$8E><$8A> Falling from heaven is not<$88> a punishment.<$8E><$8A> It is the severing of God's<$88> chain...liberation from his<$88> laws.<$8E><$8A> All that I achieve is by my<$88> own strength and desire.<$88> Isn't that what you seek?“ <$8D><$8A><END>
+<$8A> I still want to become one<$88> with Lord <$87>Y...“ <$8D><$8A><END>
+all<$8E><$8A>never be quenched.<$88>Why have you abandoned me?<$8E><$8A>More than anyone, I followed<$88>in your divine footsteps.<$8E><$8A>I yearned to be in your<$88>glorious presence!<$8D><$8A><END>
+ to be<$88> his dinner?“ <$8D><$8A><END>
+<$9E>P0Q<$D6>Q<$96>RyS<$A6>SQT<$EA>TCV<$90>V<$EA>VSW… W<$CA>W<$F8>WcX<$F0>XuY<$96>YkZ<$A8>Zya<$6E>a)bcc<$B4>cgd<$74>dOe<$66>e<$F8>e<$60>f<$DA>f<$86>g<$D0>g<END>
+ren't humans,<$88> after all...<$8E><$8A> Why did you lead us here?<$88> What do you want from us?“ <$8D><$8A><END>
+V<$8C><$88>“ Heheheh...“ <$8D><$8A><END>
+ for the spear,<$8E><$8A> and why do you wish to be<$88> resurrected?“ <$8D><$8A><END>
+<$8A> He sealed me in this land<$88> of eternal ice before my<$88> body turned black.“ <$8D><$8A><END>
+<$88>“ There's no escaping,<$88> <$80>A.“ <$8D><$8A><END>
+ith this world?<$88> Should not everyone be<$88> equal in God's eyes?<$8E><$8A> Why do some people<$88> have power, while others<$88> have nothing?<$8E><$8A> Human hearts are so easily<$88> swayed by emotion.<$8E><$8A> Why are humans permitted to<$88> multiply, tainting the earth<$88> with their existence?“ <$8D><$8A><END>
+<$88> are granted forgiveness.<$8E><$8A> He asked us, those closest<$88> to him, to serve you...He<$88> is too lenient on humans.<$8E><$8A> Why does he choose to<$88> forgive them, rather than<$88> discipline them?“ <$8D><$8A><END>
+, or destroy your<$88> relationship by revealing<$88> them?<$8E><$8A> Do you think this boy can<$88> melt your frozen heart? Do<$88> not expect that to happen.<$8E><$8A> You will only get hurt again.<$88> Are you not afraid?<$8E><$8A> If you trust him, he will<$88> betray you. He will not<$88> understand your feelings.“ <$8D><$8A><END>
+suit his purpose.<$8E><$8A> You know how vain it is to<$88> set your hopes on someone.<$8E><$8A> It will only lead to<$88> sorrow.“ <$8D><$8A><END>
+ve beyond that?“ <$8D><$8A><END>
+ As long as I have faith in<$88> him, I trust that he will be<$88> at my side,<$8E><$8A> watching, guiding, and<$88> protecting me.“ <$8D><$8A><END>
+shes.“ <$8D><$8A><END>
+es have been shut...<$88> So, I will open them for<$88> you.<$8E><$8A> Then you shall realize your<$88> own ignorance.“ <$8D><$8A><END>
+J<$8C><$88>“ I'm not fighting for humans.<$8E><$8A> I fight for us and for our<$88> future.<$8E><$8A> You are a source of<$88> destruction and death. I won't<$88> let you conquer this world!“ <$8D><$8A><END>
+ll make you realize<$88> how ignorant and<$88> shortsighted you are!<$8E><$8A> You will drown in despair!“ <$8D><$8A><END>
+<$88>“ Why do you invade my heart?<$88> This is the path I chose.<$8E><$8A> The pain in my heart is<$88> proof that I'm alive.“ <$8D><$8A><END>
+us life<$8E><$8A> until the very end?<$8E><$8A> It would be a lie to say<$88> that you have no selfish<$88> desires.<$8E><$8A> You must realize that your<$88> time on this earth is nearing<$88> its end, do you not?“ <$8D><$8A><END>
+erson can do is so<$88> little.<$8E><$8A> That's why I want to dedicate<$88> my life to bringing about a<$88> better future.<$8E><$8A> People die, but the next<$88> generation can continue the<$88> legacy.<$8E><$8A> If I die, life will go on.“ <$8D><$8A><END>
+he sake of the future.<$8E><$8A> Then, with my power, I will<$88> cut you off from that future!“ <$8D><$8A><END>
+just seemed that way.“ <$8D><$8A><END>
+fied to<$88> have avenged your father's<$8E><$8A> death. Is that not what you<$88> wanted?<$8E><$8A> You have found justice,<$88> and justice is power.<$8E><$8A> Now join me, and I shall make<$88> you even more powerful.“ <$8D><$8A><END>
+at look in your eyes...<$8E><$8A> Are you humans trying<$88> to make me feel guilty?<$88> ...How amusing!“ <$8D><$8A><END>
+not be the<$88> extent of my power!<$8E><$8A> How can God love these<$88> worthless creatures who<$88> offer nothing in return?“ <$8D><$8A><END>
+<$88>“ Then, allow me to introduce<$88> you to my world...“ <$8D><$8A><END>
+ God's love?“ <$8D><$8A><END>
+Just try to stop me!!!<$8E><$8A> Creatures of darkness,<$88> come forth and join me!<$8E><$8A> Lord of Bane, welcome me<$88> into the darkness.“ <$8D><$8A><END>
+ kill me...?<$8E><$8A> We could've had so much fun<$88> together...“ <$8D><$8A><END>
+hink a lesser<$88> angel like yourself can do?“ <$8D><$8A><END>
+ent,<$88> if you crave death so<$88> badly.“ <$8D><$8A><END>
+by feeding on people's<$88> envy.<$8E><$8A> And now, it is time for my<$88> resurrection.“ <$8D><$8A><END>
+ord of Bane, welcome me<$88> into the darkness.“ <$8D><$8A> <END>
+finally freed<$88> myself from his grasp,<$8E><$8A> and now I will assume my<$88> role as Dark Lord.“ <$8D><$8A><END>
+orld,<$8E><$8A> God's creations will never<$88> comprehend him.<$8E><$8A> How pathetic! Humans are<$88> merely pawns in the war<$88> between good and evil.“ <$8D><$8A><END>
+s?<$8E><$8A> You will not be able lay a<$88> finger on me. Stop wasting<$88> my time and submit to me!“ <$8D><$8A><END>
+ive up?<$8E><$8A> Try as you might, you cannot<$88> even lay a finger on me.<$8E><$8A> How foolish you are.<$88> You have missed your only<$88> chance to defeat me.“ <$8D><$8A><END>
+'t I bring<$88> it with me...?“ <$8D><$8A><END>
+ destruction.“ <$8D><$8A><END>
+y is he unaffected<$88> by our attacks?!“ <$8D><$8A><END>
+t kind of attack?<$8E><$8A> Your weapons will have no<$88> effect on me, humans!“ <$8D><$8A><END>
+<END>
+,<$88> or to vanish completely?“ <$8D><$8A><END>
+you?<$8E><$8A> Lonely...for so long...<$88> ...imprisoned here.<$88> I won't let you die alone.“ <$8D><$8A><END>
+long to be in<$88> his glorious presence.“ <$8D><$8A><END>
+xA<$8B><$87>D<$8C><$88>“ It's not that you<$88> hated humans.<$8E><$8A> You just wanted God to<$88> notice you.<$8E><$8A> You fell from heaven<$88> and were sealed here,<$8E><$8A> but you still longed for<$88> God's forgiveness.<$8E><$8A> A fallen angel is an<$88> enemy of God,<$8E><$8A> but God sealed you<$88> before you had<$88> completely fallen.<$8E><$8A> That was all that he<$88> could do for you...<$8E><$8A> Why haven't you realized it?<$88> ...God loves you, too.“ <$8D><$8A><END>
+ What is happening to me?<$88> Am I dying...?<$8E><$8A> Will I vanish forever?<$88> Even my memories are fading...“ <$8D><$8A><END>
+u saying!?“ <$8D><$8A><END>
+helpful.<$8E><$8A> I wanted to be needed.<$88> I wanted to protect you...“ <$8D><$8A><END>
+ise...<$8D><$8A><END>
+o be in<$88> his glorious presence.“ <$8D><$8A><END>
+before you had<$88> completely fallen.<$8E><$8A> That was all he could<$88> do for you...<$8E><$8A> His love is unconditional.<$88> You shouldn't have<$88> doubted him.“ <$8D><$8A><END>
+ing<$88> to whom I must dedicate<$88> my life,<$8E><$8A> then he should act<$88> accordingly!<$8E><$8A> Aah...Everything is blurry.<$88> What is happening to me?<$88> Am I dying...?<$8E><$8A> Will I vanish forever?<$88> Even my memories are fading...<$88> I shall not allow it...<$8E><$8A> I shall not go alone!“ <$8D><$8A><END>
+xA<$8B><$87>E<$8C><$88>“ I won't let you<$88> take <$80>A,<$8E><$8A> even if it costs<$88> me my life.“ <$8D><$8A><END>
+of energy<$88> to make it this far, but<$88> don't underestimate me.<$8E><$8A> Taking the life of a<$88> fallen angel shouldn't be<$88> too difficult!“ <$8D><$8A><END>
+tionship<$88> with God.<$8E><$8A> Just give up on your wish.<$88> Besides...You won't be<$88> lonely if I am with you.“ <$8D><$8A><END>
+t.<$8E><$8A> My wish would never have come<$88> true.<$8E><$8A> There was no chance that God<$88> would have forgiven me...<$8E><$8A> All that was expected of me<$88> was to fight and die for<$88> the sake of humans.“ <$8D><$8A><END>
+ime.<$8E><$8A> You are right...<$88> I still love him.<$8E><$8A> My love for God has not<$88> changed, and I still<$88> want to be at his side.<$8E><$8A> But, my time has run out.<$88> Everything is fading.<$88> Am I...dying?<$8E><$8A> Son of man, let us together<$88> disappear into oblivion.<$8E><$8A> Memory of our existence<$88> will be lost in the well<$88> of time.<$8E><$8A> Death will bring peace to<$88> us both...“ <$8D><$8A><END>
+ht<$88> and dark...!?<$8E><$8A> Ah, what's happening...?“ <$8D><$8A><END>
+untains, but<$88>no damage was reported.<$8D><$8A><END>
+ains,<$88>but details are not known.<$8D><$8A><END>
+the<$88>Vurtar and Turgus Mountains.<$8D><$8A><END>
+e Sacred Spear could have<$88> shattered the barrier...<$8E><$8A> What was I thinking?!“ <$8D><$8A><END>
+d me...<$88>You are next...!<$8D><$8A><END>
+Why don't you just give up?<$8E><$8A> Try as you might, you cannot<$88> even lay a finger on me.<$8E><$8A> How foolish you are.<$88> You have missed your only<$88> chance to defeat me.“ <$8D><$8A><END>
+y...<$8E><$8A> Ahh! Why didn't I bring<$88> it with me...?“ <$8D><$8A><END>
+re many fierce<$88> creatures and other dangers.“ <$8D><$8A><END>
+ght, you can come. But...<$88> don't do anything silly.“ <$8D><$8A><END>
+<$88>“ I'm sorry,<$8E><$8A> but we don't have time to<$88> look for your sister.“ <$8D><$8A><END>
+e so caught up in<$88> yourself.<$8E><$8A> You should at least have<$88> some sympathy for a girl<$88> in need.<$8E><$8A> See you!“ <$8D><$8A><END>
+oo! Stay away!“ <$8D><$8A> <END>
+<$88> outside world.<$8E><$8A> If possible, may I join you?<$88> I'm looking for my sister.“ <$8D><$8A><END>
+of time<$88> to get to know each other.<$8E><$8A> Oh, my sister's name is<$88> <$87>O.<$8E><$8A> She ran away from the forest<$88> where we live because she<$88> thought it was boring there.“ <$8D><$8A><END>
+erstand.<$8E><$8A> I thought it was<$88> worth a shot...“ <$8D><$8A><END>
+<$8A> See you!“ <$8D><$8A><END>
+<$88>*sniff, sniff*<$8E><$8A>“ A girl's life<$88> is too short!“ <$8D><$8A><END>
+beasts are<$88> really scary.<$8E><$8A> I have a favor to ask of you.<$88> Can I come with you?<$88> I'm looking for my sister.“ <$8D><$8A><END>
+Thanks!<$8E><$8A> We'll have plenty of time<$88> to get to know each other.<$8E><$8A> Oh, my sister's name is<$88> <$87>O.<$8E><$8A> She ran away from the forest<$88> where we live because she<$88> thought it was boring there.“ <$8D><$8A><END>
+<$8D><$8A><END>
+mpathy for a girl<$88> in need.<$8E><$8A> See you!“ <$8D><$8A><END>
+red!“ <$8D><$8A><END>
+y wings<$88> will get moldy.<$8E><$8A> I'm actually looking<$88> for my sister.<$8E><$8A> What luck that I should<$88> bump into you!<$88> May I join you?“ <$8D><$8A><END>
+rous.“ <$8D><$8A><END>
+ for your sister.“ <$8D><$8A><END>
+east have<$88> some sympathy for a girl<$88> in need.<$8E><$8A> See you!“ <$8D><$8A><END>
+ it anymore!<$8E><$8A> I hate these ugly creatures!“ <$8D><$8A><END>
+onest,<$8E><$8A> I don't have any kind of<$88> affinity towards lava!<$8E><$8A> I'm looking for my sister.<$88> I know I'm being pushy, but<$88> please let me join you!“ <$8D><$8A><END>
+ do anything dangerous.“ <$8D><$8A><END>
+ time to<$88> look for your sister.“ <$8D><$8A><END>
+n<$88> yourself.<$8E><$8A> You should at least have<$88> some sympathy for a girl<$88> in need.<$8E><$8A> See you!“ <$8D><$8A><END>
+Nooo. I'm not very tasty!“ <$8D><$8A><END>
+I was surrounded<$88> before I realized it.<$88> I'm looking for my sister.<$8E><$8A> I have a favor to ask...<$88> Please let me join you!“ <$8D><$8A><END>
+us.“ <$8D><$8A> <END>
+or your sister.“ <$8D><$8A><END>
+st have<$88> some sympathy for a girl<$88> in need.<$8E><$8A> See you!“ <$8D><$8A><END>
+<$8D><$8A><END>
+s?“ <$8D><$8A><END>
+an away from the forest<$88> where we live because she<$88> thought it was boring there.“ <$8D><$8A><END>
+<$8A><END>
+<$8A><END>
+he name of God, I<$88> swear my loyalty to you.<$8E><$8A> May the great light<$88> protect you.“ <$8D><$8A><END>
+y words, son of man.<$8E><$8A> There will come a time<$88> when you must rely on<$88> the help of others.<$8E><$8A> Humans are not invincible.<$8E><$8A> Don't think that you can<$88> shoulder all of the<$88> responsibility alone.“ <$8D><$8A><END>
+<$8B><$87>M<$8C><$88>“ I understand. I don't want<$88> you to feel obligated.<$8E><$8A> However, there will come a<$88> time when you must rely on<$88> the help of others.<$8E><$8A> Humans are not invincible.<$8E><$8A> Don't think that you can<$88> shoulder all of the<$88> responsibility alone.“ <$8D><$8A><END>
+laced your fate<$88> in the hands of evil?<$8E><$8A> You must not. It will only<$88> bring you grief.<$8E><$8A> If you terminate your<$88> pact with darkness,<$88> then God will forgive you.“ <$8D><$8A><END>
+ assist you?“ <$8D><$8A><END>
+ way off.“ <$8D><$8A><END>
+that you<$8E><$8A> passed through the forest<$88> of the undead unharmed.“ <$8D><$8A><END>
+ut, you're already dead.<$8E><$8A> This world is not the place<$88> for you anymore.“ <$8D><$8A><END>
+ult.“ <$8D><$8A><END>
+y question, boy.<$8E><$8A> The stench of blood lingers<$88> on you as well.<$8E><$8A> You must have experienced<$88> many battles.<$8E><$8A> I can see the ghosts of those<$88> you've killed...Just look...“ <$8D><$8A><END>
+<$8E><$8A> Now come here, boy.“ <$8D><$8A><END>
+don't call<$88> for me again.“ <$8D><$8A><END>
+....“ <$8D><$8A><END>
+ I shouldn't have<$88> fought nature's design.“ <$8D><$8A><END>
+<$88> back with a spell, and<$88> she possessed my body.<$8E><$8A> At first I was happy,<$88> but later I learned that<$88> it was wrong...<$8E><$8A> The dead and the living are<$88> not meant to share the same<$88> body.“ <$8D><$8A><END>
+er?“ <$8D><$8A><END>
+be a big help...“ <$8D><$8A><END>
+ ...Aah, I'm tired.<$8E><$8A> Please tell Father I said,<$88> 'Thank you' and 'Good-bye'.“ <$8D><$8A><END>
+nk you' and 'Good-bye'.“ <$8D><$8A><END>
+t,<$8E><$8A> she was killed by bandits<$88> that attacked our town.<$8E><$8A> My father called her soul<$88> back with a spell,<$88> and she possessed my body.<$8E><$8A> At first I was happy,<$88> but later I learned that<$88> it was wrong.<$8E><$8A> The dead and the living<$88> are not meant to share the<$88> same body.“ <$8D><$8A><END>
+ should regain<$88> your health.“ <$8D><$8A><END>
+ you tell him<$88> that Mother loved him?“ <$8D><$8A><END>
+ this is where<$88> <$87>8 found you.<$8E><$8A> <$87>D, does it bring<$88> back any memories?“ <$8D><$8A><END>
+isted?<$8E><$8A> Where does memory end<$88> and imagination begin?“ <$8D><$8A><END>
+on't have to remember.<$8E><$8A> We can live without<$88> these memories....“ <$8D><$8A><END>
+.<$8E><$8A> Am I going to die again?<$88> I'll return this body<$88> to my daughter.<$8E><$8A> Please tell...<$87>K<$88> that I was happy...“ <$8D><$8A><END>
+K<$8C><$88>“ ...You came here to find me?“ <$8D><$8A><END>
+dead<$88> back to this world.<$8E><$8A> We seek knowledge of the<$88> power of bane,<$8E><$8A> so that we are prepared to<$88> face the dark foes that lie<$88> ahead.<$8E><$8A> Please help us.“ <$8D><$8A><END>
+'t want to sacrifice my<$88> happiness by reawakening<$88> old ways.<$8E><$8A> Besides, I am not obligated<$88> to help you.“ <$8D><$8A><END>
+you can make me obey?<$8E><$8A> You do realize that we<$88> summoners have the<$8E><$8A> ability to command the<$88> creatures we summon,<$88> right?<$8E><$8A> Alright, I'll give<$88> you a chance.<$8E><$8A> If you have the strength<$88> to defeat me, then I'll<$88> cooperate with you.“ <$8D><$8A><END>
+d to ruin.<$8E><$8A> You'll regret your<$88> childishness!“ <$8D><$8A><END>
+ccountable if you lose<$88> your life. Understand?“ <$8D><$8A><END>
+.“ <$8D><$8A><END>
+alking<$88> about, Father?“ <$8D><$8A><END>
+ spell of<$88> spiritual transference?<$8E><$8A> I gave up on that.<$88> It's futile to keep the souls<$88> of the dead in this world.“ <$8D><$8A><END>
+imagine<$88> what that must be like?<$8E><$8A> She was dead, and that was<$88> the only truth.<$8E><$8A> You should not have violated<$88> nature's law.“ <$8D><$8A><END>
+ow<$88> me to accompany you?“ <$8D><$8A><END>
+ it.<$88> I needed her to be alive,<$88> no matter how she looked.“ <$8D><$8A><END>
+<$8A><END>
+grown<$88> so tired...<$8E><$8A> <$87>L, can I be<$88> by her side...?“ <$8D><$8A><END>
+A: “ Join us as we agreed.“ <END>
+<$88> can we stop there?“ <$8D><$8A><END>
+it'd be best<$8E><$8A> for me to remain here and<$88> perform my experiments.<$8E><$8A> I promise that I will in no<$88> way impede your progress.<$88> Good luck.“ <$8D><$8A><END>
+g<$88> you along.“ <$8D><$8A> <END>
+here's<$88> no other way...<$8E><$8A> <$87>L, prepare to die!!!“ <$8D><$8A><END>
+l, I've given up<$88> on that pursuit.<$8E><$8A> The undead are useless.<$8E><$8A> They attack enemies blindly<$88> and aren't even smart enough<$88> to defend themselves.<$8E><$8A> I'm not a religious person,<$88> so don't think that I am<$88> feeling guilty.<$8E><$8A> To me, they are merely<$88> disposable creatures...“ <$8D><$8A><END>
+<$88>“ <$80>A!!“ <$8D><$8A><END>
+!“ <$8D><$8A><END>
+<$8B><$80>A<$8C><$88>“ Well...what will you do now?“ <$8D><$8A><END>
+o such a<$88> boring place. I refuse!!!“ <$8D><$8A><END>
+<$8A> First and foremost,<$88> I am a respectable member<$88> of <$80>A's troops.<$8E><$8A> Right, <$80>A?“ <$8D><$8A><END>
+.<$8E><$8A> You can come,<$88> so please calm down.“ <$8D><$8A><END>
+gh)...I'll go...<$88> ...Meanie.“ <$8D><$8A><END>
+O<$8C><$88>“ Okay, okay!!!“ <$88>(sigh)<$8D><$8A><END>
+me with you.“ <$8D><$8A><END>
+xA<$8B><$87>N<$8C><$88>“ <$87>O, where are you<$88> hiding? Come out!!!“ <$8D><$8A><END>
+e<$88> gremlin nests nearby...“ <$8D><$8A><END>
+we passed<$8E><$8A> on the way here?<$8E><$8A> There was a man that lived<$88> there who lost his sister<$88> to a rare illness.“ <$8D><$8A><END>
+not being able<$88> to save his sister.<$8E><$8A> At first, the villagers felt<$88> sorry for him, but eventually<$88> they became frightened.<$8E><$8A> He had forsaken his work and<$88> shut himself in his home,<$88> still cursing God.<$8E><$8A> ...Finally, one day he<$88> went insane.“ <$8D><$8A><END>
+an screaming from<$88> his house and began<$8E><$8A> killing villagers like<$88> a bloodthirsty demon.<$8E><$8A> However, a priest who<$88> happened to be passing by<$8E><$8A> was able to seal the man<$88> in this cave.“ <$8D><$8A><END>
+st have died inside.“ <$8D><$8A><END>
+serted town we passed<$8E><$8A> on the way here?<$8E><$8A> There was a man that lived<$88> there who lost his sister<$88> to a rare illness.“ <$8D><$8A><END>
+ felt<$88> sorry for him, but later<$88> they became frightened.<$8E><$8A> He had forsaken his work and<$88> shut himself in his home,<$88> still cursing God.<$8E><$8A> ...Finally, one day he<$88> went insane.“ <$8D><$8A><END>
+ bloodthirsty demon.<$8E><$8A> However, a priest who<$88> happened to be passing by<$8E><$8A> was able to seal the man<$88> in this cave.“ <$8D><$8A><END>
+ember that<$88> deserted town we passed<$8E><$8A> on the way here?<$8E><$8A> There was a man that lived<$88> there who lost his sister<$88> to a rare illness.“ <$8D><$8A><END>
+ the villagers felt<$88> sorry for him, but later<$88> they became frightened.<$8E><$8A> He had forsaken his work and<$88> shut himself in his home,<$88> still cursing God.<$8E><$8A> ...Finally, one day he<$88> went insane.“ <$8D><$8A><END>
+lagers like<$88> a bloodthirsty demon.<$8E><$8A> However, a priest who<$88> happened to be passing by<$8E><$8A> was able to seal the man<$88> in this cave.“ <$8D><$8A><END>
+xA<$8B><$80>A<$8C><$88>(This cave...<$88> doesn't look natural.<$8E><$8A> Is it some kind of<$88> ancient ruin...?<$8E><$8A> ...And...that<$88> horrible smell...)<$8D><$8A><END>
+t the pain<$88> in your heart...“ <$8D><$8A><END>
+is what you wanted.<$88> Did you seek the power of evil<$88> only to take revenge<$8E><$8A> against God for the death<$88> of your sister?“ <$8D><$8A><END>
+hat you wish for?“ <$8D><$8A><END>
+e he died.<$8E><$8A> What a pity...<$8E><$8A> Selling his soul to darkness<$88> wouldn't have restored what<$88> he had lost...<$8E><$8A> Nothing would have, for that<$88> matter.“ <$8D><$8A><END>
+ sister and<$88> fell into despair.<$8E><$8A> What do you think he<$88> sought there?“ <$8D><$8A><END>
+rld<$88> around him.<$8E><$8A> He could not accept his<$88> sister's death or bear the<$88> weight of reality.<$8E><$8A> In a world without his<$88> sister, he only hoped<$88> for destruction.<$8E><$8A> That was the consequence for<$88> someone with a weak mind.“ <$8D><$8A><END>
+ained his human heart<$88> right before he died.<$8E><$8A> What a pity...<$8E><$8A> Selling his soul to darkness<$88> wouldn't have restored the<$88> life of his loved one...<$8E><$8A> Nothing would have, for that<$88> matter.“ <$8D><$8A><END>
+ should<$88> say he 'was' human.<$8E><$8A> He lost his sister and<$88> fell into despair.<$8E><$8A> What do you think he<$88> sought there?“ <$8D><$8A> <END>
+ister's death or bear<$88> the weight of reality.<$8E><$8A> In a world without his sister,<$88> he only hoped for destruction.<$88> That was the consequence...<$8E><$8A> for someone with a weak mind.“ <$8D><$8A><END>
+.<$8E><$8A> What a pity...<$8E><$8A> Selling his soul to darkness<$88> wouldn't have restored what<$88> he had lost...<$8E><$8A> Nothing would have, for that<$88> matter.“ <$8D><$8A> <END>
+think he<$88> sought there?“ <$8D><$8A> <END>
+hoped for destruction.<$88> He was blinded by sorrow...“ <$8D><$8A><END>
+s that what they<$88> were talking about?“ <$8D><$8A><END>
+lf<$88> again.“ <$8D><$8A><END>
+lked the earth...<$88> You'll make a nice warm-up.“ <$8D><$8A><END>
+<$88>“ ...What do you fight for,<$88> young warrior?“ <$8D><$8A><END>
+<$8B><$87>P<$8C><$88>“ I like you, kid. Why don't<$88> you and I strike up a deal?“ <$8D><$8A><END>
+ght.<$8E><$8A> Battle is everything to me,<$88> and victory is my greatest<$88> satisfaction.“ <$8D><$8A><END>
+o you think that will<$88> satisfy you?“ <$8D><$8A><END>
+ Do what you like.<$88> Good-bye.“ <$8D><$8A><END>
+lly,<$88> not very strong.<$8E><$8A> I bet he was attracted to<$88> the negative energy of the<$88> fallen angel.“ <$8D><$8A><END>
+ careful.<$88> Don't lose your faith.<$8E><$8A> As long as people rely on<$88> God, he won't abandon them.<$8E><$8A> However, the sad reality<$88> is that humans falter.<$8E><$8A> Confusion and doubt...<$88> those emotions allow<$88> evil to take control.“ <$8D><$8A><END>
+<$8A> How can you be so confident?<$88> Nothing is certain in this<$88> world.“ <$8D><$8A><END>
+yed into such a place,<$8E><$8A> and he's brought with him<$88> an arrogant little girl...<$88> How thoughtful of you!“ <$8D><$8A><END>
+ether or not you<$88> can use it effectively<$8E><$8A> depends on you. Farewell.“ <$8D><$8A><END>
+now.<$8E><$8A> Please come this way,<$88> and I'll see you off.“ <$8D><$8A><END>
+.<$8E><$8A> <$80>A, thank you so much.<$88> To show my appreciation, I'd<$88> like to give you something.<$8E><$8A> Please take it. I hope that<$88> you will find it useful.“ <$8D><$8A><END>
+e northern<$88> mountains are like.“ <$8D><$8A><END>
+You've given your best and<$88> have been very helpful.“ <$8D><$8A><END>
+<END>
+u always.“ <$8D><$8A><END>
+D<$8C><$88>“ Thank you, <$80>A.<$8E><$8A> I'm really happy to be with<$88> you.<$8E><$8A> I feel strong.<$88> I feel like anything<$88> is possible with you.<$8E><$8A> I wish I could have<$88> met you earlier...“ <$8D><$8A><END>
+<$88> be with you as I am now.<$8E><$8A> I thank God that our paths<$88> crossed when they did.“ <$8D><$8A><END>
+h you always.“ <$8D><$8A><END>
+d it at the beach<$88> a long time ago.<$8E><$8A> I've held on to it all this<$88> time because it seemed so<$88> beautiful to me.<$8E><$8A> I think it might be helpful<$88> to us somehow.“ <$8D><$8A><END>
+rdinary ring.<$8E><$8A> If you think it'll be<$88> helpful, please take it.“ <$8D><$8A><END>
+s is over...“ <$8D><$8A><END>
+B<$8C><$88>“ I am sorry for being so<$88> much trouble for you...<$8E><$8A> But thank you...“ <$8D><$8A><END>
+<$87>S...What in the<$88> world are you thinking...?“ <$8D><$8A><END>
+..until my<$88> leader grants me death...“ <$8D><$8A><END>
+<END>
+<$88> the rest of the world...“ <$8D><$8A><END>
+B<$8C><$88>“ I was just following<$88> orders...following...“ <$8D><$8A><END>
+u still have comrades...<$88> Don't worry about me...“ <$8D><$8A><END>
+<$8A><END>
+o bad to<$88> die for humans...)<$8D><$8A><END>
+ I can take no more.)<$8D><$8A><END>
+at the...<$88> humans...said...“ <$8D><$8A><END>
+gn<$88><$86>ETaiji Tsuchiya<$88><$86>EYukiko Wada<END>
+niharu Iwata<$88><$86>EHitoshi Sakimoto<END>
+e Producer<$88><$86>ETatsuya Azeyagi<END>
+ Carter<END>
+eans more<$88> if it's won.<$8E><$8A> Try and win it!“ <$8D><$8A><END>
+<END>
+<END>

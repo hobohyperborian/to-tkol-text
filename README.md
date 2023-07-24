@@ -3,11 +3,14 @@ Tools to edit text in "Tactics Ogre: The Knight of Lodis" for the Game Boy Advan
 
 Click on "Code" in the section above, then click "Download ZIP" to get the sheets.
 
+You will need Scite to edit the larger files, which can be several hundred kilobytes in size. Download a Windows (or whatever your OS is) executable here:
+https://www.scintilla.org/SciTEDownload.html
+
 Our Ogre franchise modding discord is here: https://discord.gg/YRWaZsQ89p
 
 TODO
 
-* Figure out how to use existing text export/import tools from romhacking dot net
+* Figure out how to use existing text import tools from romhacking dot net
 * Get those tools working with current text strings
 * Figure out how those tools need pointers formatted
 * Get those tools working with full list of pointers and text strings

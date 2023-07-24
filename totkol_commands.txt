@@ -9,7 +9,7 @@
 #POINTER SIZE:		$03
 #POINTER SPACE:		$01
 #ATLAS PTRS:		Yes
-#TABLE:			totkol.tbl
+#TABLE:			pointer_totkol.tbl
 #COMMENTS:		Yes
 #END BLOCK
 
@@ -22,16 +22,16 @@
 #POINTER SIZE:		$03
 #POINTER SPACE:		$01
 #ATLAS PTRS:		Yes
-#TABLE:			totkol.tbl
+#TABLE:			pointer_totkol.tbl
 #COMMENTS:		Yes
 #END BLOCK
 
-#BLOCK NAME:		Character Dialog (POINTER)
+#BLOCK NAME:		Character Dialog (RAW)
 #TYPE:			NORMAL
 #METHOD:		RAW
 #SCRIPT START: $7843F8
 #SCRIPT STOP: $7BfC3A
-#TABLE:			totkol.tbl
+#TABLE:			raw_totkol.tbl
 #COMMENTS:		Yes
 #END BLOCK
 
